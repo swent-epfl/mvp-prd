@@ -16,7 +16,7 @@ jobs:
       - name: Set up Python 3.x
         uses: actions/setup-python@v3
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Install pandoc and LaTeX
         run: |
@@ -37,10 +37,10 @@ jobs:
 
       - name: Generate PDF
         run: |
-          swent_prd generate --team 26 template
+          swent_prd generate --team 16 template
 
       - name: Upload PDF as artifact
         uses: actions/upload-artifact@v3
         with:
           name: PRD-PDF
-          path: Team_26_prd.pdf
+          path: Team_16_prd.pdf
