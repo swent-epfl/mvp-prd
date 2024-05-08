@@ -12,6 +12,12 @@ sections:
       - "What is this project about?"
       - "Describe succinctly and precisely its purpose."
       - "Include a 3-sentence (max) elevator pitch."
+      -"
+"WanderWise" is an innovative travel app designed to revolutionize trip planning and exploration. At its core, the project aims to simplify the often stressful process of itinerary creation and discovery. Users can seamlessly access a wealth of curated itineraries crafted by fellow travelers, while also having the freedom to craft and share their own personalized routes.
+
+The purpose of WanderWise is to alleviate the hassle and uncertainty associated with planning trips by providing a platform where users can easily access and contribute to a diverse array of travel itineraries. Through intuitive features such as customizable routes, detailed tagging options (including price, time, and thematic tags), and the ability to toggle between public and private itineraries, WanderWise empowers users to tailor their travel experiences to their preferences and needs.
+
+In essence, WanderWise is your ultimate travel companion, offering a convenient and efficient solution for both novice and seasoned travelers alike. With WanderWise, embark on your next adventure with confidence, knowing that comprehensive trip planning is just a few taps away."
 
   - name: history
     index: 2
