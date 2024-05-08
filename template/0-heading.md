@@ -1,4 +1,3 @@
-# MVP PRD: Project Name
+# MVP PRD: SkySync
 
-*[2024.04.20]*
-
+_[2024.04.20]_

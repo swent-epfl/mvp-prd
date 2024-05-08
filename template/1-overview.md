@@ -1,10 +1,7 @@
 # Overview
 
-*Maximum: 2 pages*
+This project is centered around the development of a comprehensive mobile application tailored for hot-air balloon companies. The app aims to consolidate various operational processes into a single platform, significantly improving workflow efficiency and safety. By integrating features such as flight scheduling, real-time GPS tracking, crew management, and post-flight reporting, the software will serve as an indispensable tool for balloon company owners and their employees, ensuring they have instant access to all critical information needed for successful flight operations.
 
-*What is this project about?*
+The primary purpose of this software is to streamline the complex logistics involved in managing hot-air balloon operations. It will provide owners with a bird's-eye view of their business and give employees easy access to essential tools and information, enhancing their ability to perform tasks effectively and safely. The app is designed to improve overall operational efficiency, increase safety standards, and elevate the customer experience by ensuring each flight is well-coordinated and supported by real-time data and communications.
 
-*Describe succinctly and precisely its purpose.*
-
-*Include a 3-sentence (max) elevator pitch.*
-
+Imagine an app that transforms the way hot-air balloon companies operate, making complex logistics simple and manageable from a single platform. Our app brings scheduling, tracking, and crew management into one place, enabling owners to oversee operations effortlessly and employees to excel at their roles. With our solution, hot-air balloon companies will not only optimize their workflow but also enhance safety and passenger satisfaction, soaring to new heights of operational excellence.
