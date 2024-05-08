@@ -10,6 +10,7 @@ sections:
     comments: 
       - "Maximum: 2 pages"
       - "What is this project about?"
+      -"can we delete the comments"
       - "Describe succinctly and precisely its purpose."
       - "Include a 3-sentence (max) elevator pitch."
       -"
