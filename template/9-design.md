@@ -3,9 +3,9 @@
 ## Frontend
 
 *List the key libraries, languages, components used by the MVP.*
-Language : Kotlin
-Libraries : Jetpack Compose
-Database solution : Firebase, Google Maps
+Language : Kotlin\
+Libraries : Jetpack Compose\
+Database solution : Firebase, Google Maps\
 *If applicable, describe essential screens.*
 
 ## Backend
