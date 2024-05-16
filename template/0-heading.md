@@ -1,4 +1,4 @@
-# MVP PRD: Project Name
+# MVP PRD: Proxima
 
 *[2024.04.20]*
 
