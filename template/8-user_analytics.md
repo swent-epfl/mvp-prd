@@ -3,6 +3,9 @@
 *Goal: understand how users are using the app.*
 
 *Which are the key metrics?*
+- Number of active users
+- Number of posts created
+- Number of comments
 
 *What is the success criteria?*
 
