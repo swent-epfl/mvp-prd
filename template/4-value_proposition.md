@@ -8,3 +8,4 @@
 
 *3. Relevant*
 
+Value proposition would be a all-in-one app to boost effectiveness of studying and revisions while still keeping a certain sense of camaraderie collaboration. 
