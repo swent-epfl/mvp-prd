@@ -13,12 +13,12 @@ sections:
       - "can we delete the comments"
       - "Describe succinctly and precisely its purpose."
       - "Include a 3-sentence (max) elevator pitch."
-      - 
-""WanderWise" is an innovative travel app designed to facilitate trip planning and exploration. At its core, the project aims to simplify the often stressful process of itinerary creation and discovery. Users can seamlessly access a wealth of curated itineraries crafted by fellow travelers, while also having the freedom to craft and share their own personalized routes.
-The purpose of WanderWise is to alleviate the hassle and uncertainty associated with planning trips by providing a platform where users can easily access and contribute to a diverse array of travel itineraries. Through intuitive features such as customizable routes, detailed tagging options (including price, time, and thematic tags), and the ability to toggle between public and private itineraries, WanderWise empowers users to tailor their travel experiences to their preferences and needs. The user can now navigate the app for different reasons, whether he wants to create an itinerary that he went through by selecting the starting and finishing point amongst intermediates points, or interactively save an itinerary that he is currently walking, but also as mentioned before he can pick an itinerary to discover, allowing you to have a social aspect to this app so that many users can interact by discovering new trips and by “liking” them.
-The app uses the Google Maps API for a smoother usage of an extensive existing platform while also allowing the user to sign in with his Google account. The app is free for use and was developed to target a wide age range of 18+ . Currently only available on Android with an offline functionality to still access your “liked” and created itineraries, our goal is to extend to IOS for a larger audience.
-In essence, WanderWise is your ultimate travel companion, offering a convenient and efficient solution for both novice and seasoned travelers alike. With WanderWise, embark on your next adventure with confidence, knowing that comprehensive trip planning is just a few taps away.
-"
+      -         ""WanderWise" is an innovative travel app designed to facilitate trip planning and exploration. At its core, the project aims to simplify the often stressful process of itinerary creation and discovery. Users can seamlessly access a wealth of curated itineraries crafted by fellow travelers, while also having the freedom to craft and share their own personalized routes.
+        The purpose of WanderWise is to alleviate the hassle and uncertainty associated with planning trips by providing a platform where users can easily access and contribute to a diverse array of travel itineraries. Through intuitive features such as customizable routes, detailed tagging options (including price, time, and thematic tags), and the ability to toggle between public and private itineraries, WanderWise empowers users to tailor their travel experiences to their preferences and needs. The user can now navigate the app for different reasons, whether he wants to create an itinerary that he went through by selecting the starting and finishing point amongst intermediates points, or interactively save an itinerary that he is currently walking, but also as mentioned before he can pick an itinerary to discover, allowing you to have a social aspect to this app so that many users can interact by discovering new trips and by “liking” them.
+        The app uses the Google Maps API for a smoother usage of an extensive existing platform while also allowing the user to sign in with his Google account. The app is free for use and was developed to target a wide age range of 18+ . Currently only available on Android with an offline functionality to still access your “liked” and created itineraries, our goal is to extend to IOS for a larger audience.
+        In essence, WanderWise is your ultimate travel companion, offering a convenient and efficient solution for both novice and seasoned travelers alike. With WanderWise, embark on your next adventure with confidence, knowing that comprehensive trip planning is just a few taps away.
+        "
+
 
   - name: history
     index: 2
@@ -29,18 +29,18 @@ In essence, WanderWise is your ultimate travel companion, offering a convenient 
       - "What did you learn?"
       - "What is missing to bridge from PoC to MVP?"
       - "The idea for WanderWise emerged from recognizing that travel planning was often inefficient and stressful, discouraging people from exploring the world. This realization led to the development of a mobile app designed to simplify and enhance the process of creating and finding travel itineraries, while also building a community of travelers.
-Learning from the Prototype : 
-The development from concept to prototype provided valuable insights. The integration of the Google Maps API was crucial, enabling real-time navigation and customizable routes, which improved the user experience significantly. Additionally, user feedback confirmed the importance of social features like liking, saving, and sharing itineraries, highlighting the community aspect of the app.
-User tests showed that while users liked the intuitive design and easy itinerary customization, they wanted more advanced filtering options to quickly find itineraries based on specific criteria such as budget, duration, and themes.
-Bridging the Gap: From PoC to MVP
-To evolve from a proof of concept (PoC) to a minimum viable product (MVP), several improvements are necessary:
-Enhanced Personalization: Implementing machine learning to tailor itinerary suggestions based on users' past behaviors and preferences could greatly boost engagement.
-Cross-Platform Availability: Extending availability to iOS is critical to reach a wider audience and test the app’s effectiveness across different user groups.
-Scalability and Performance: It's vital to ensure the app can support a high volume of users and itineraries without performance issues, potentially requiring backend optimization and cloud solutions for scalability.
-Advanced Search and Filtering: More detailed search options are needed to allow users to efficiently find ideal itineraries. This could include filters for accessibility features, environmental impact, or user ratings.
-Marketing and Community Building: A strategic marketing campaign is crucial to attract initial users and build a thriving community. This should include digital marketing and collaboration with travel influencers to increase the app's visibility and credibility.
-By addressing these areas, WanderWise aims to progress from a functional PoC to an MVP that demonstrates its value and appeals to early adopters and potential investors.
-"
+          Learning from the Prototype : 
+          The development from concept to prototype provided valuable insights. The integration of the Google Maps API was crucial, enabling real-time navigation and customizable routes, which improved the user experience significantly. Additionally, user feedback confirmed the importance of social features like liking, saving, and sharing itineraries, highlighting the community aspect of the app.
+          User tests showed that while users liked the intuitive design and easy itinerary customization, they wanted more advanced filtering options to quickly find itineraries based on specific criteria such as budget, duration, and themes.
+          Bridging the Gap: From PoC to MVP
+          To evolve from a proof of concept (PoC) to a minimum viable product (MVP), several improvements are necessary:
+          Enhanced Personalization: Implementing machine learning to tailor itinerary suggestions based on users' past behaviors and preferences could greatly boost engagement.
+          Cross-Platform Availability: Extending availability to iOS is critical to reach a wider audience and test the app’s effectiveness across different user groups.
+          Scalability and Performance: It's vital to ensure the app can support a high volume of users and itineraries without performance issues, potentially requiring backend optimization and cloud solutions for scalability.
+          Advanced Search and Filtering: More detailed search options are needed to allow users to efficiently find ideal itineraries. This could include filters for accessibility features, environmental impact, or user ratings.
+          Marketing and Community Building: A strategic marketing campaign is crucial to attract initial users and build a thriving community. This should include digital marketing and collaboration with travel influencers to increase the app's visibility and credibility.
+          By addressing these areas, WanderWise aims to progress from a functional PoC to an MVP that demonstrates its value and appeals to early adopters and potential investors.
+          "
 
   - name: analysis
     index: 3
@@ -49,22 +49,22 @@ By addressing these areas, WanderWise aims to progress from a functional PoC to 
       - "What are the competing products in the market today?"
       - "What are the complementary products in the market today?"
       - "As WanderWise prepares to carve out its niche in the travel industry, understanding the landscape of existing products is essential. This analysis will outline both the competing and complementary products currently available in the market, providing insights into potential challenges and opportunities for collaboration.
-Competing Products
-TripAdvisor: As a giant in the travel industry, TripAdvisor offers extensive user-generated content including reviews, recommendations, and itineraries. While not exclusively an itinerary planning tool, its vast database and community engagement present a formidable competition.
-Roadtrippers: Specializing in road trip planning, Roadtrippers allows users to plot routes and discover attractions, accommodations, and restaurants along the way. Its focus on road travel and rich content make it a direct competitor for users interested in driving itineraries.
-Google Trips (discontinued but relevant): Google Trips was an app that helped plan and organize travel by pulling information from user's emails and providing offline access to itinerary details. Its integration with other Google services posed a significant competitive edge.
-Komoot: Targeted at outdoor enthusiasts, Komoot offers detailed route planning for hiking and biking adventures. Its niche focus on outdoor activities competes with WanderWise’s potential offerings in similar domains.
-Complementary Products
-Booking.com and Airbnb: These platforms provide accommodation booking services which are essential once an itinerary is planned. Integration with such platforms could offer users a seamless experience from planning to booking.
-Yelp and Zomato: For dining options along an itinerary, Yelp and Zomato could complement WanderWise by providing reviews and suggestions for restaurants. Potential API integrations could enhance user experience by offering meal stops directly in the travel itinerary.
-Weather Apps: Real-time weather information is crucial for travelers. Integrating weather forecasts into WanderWise could improve the planning process, making it adaptive to environmental conditions.
-Culture Trip: With its focus on cultural content, Culture Trip can complement WanderWise by providing users with deep insights into the cultural aspects of their travel destinations, enhancing the overall richness of the travel planning process.
-Flight Booking Platforms (SkyScanner, Google Flights): These platforms could serve as essential complements to WanderWise, offering users the ability to book flights directly related to the itineraries they plan on the app.
+          Competing Products
+          TripAdvisor: As a giant in the travel industry, TripAdvisor offers extensive user-generated content including reviews, recommendations, and itineraries. While not exclusively an itinerary planning tool, its vast database and community engagement present a formidable competition.
+          Roadtrippers: Specializing in road trip planning, Roadtrippers allows users to plot routes and discover attractions, accommodations, and restaurants along the way. Its focus on road travel and rich content make it a direct competitor for users interested in driving itineraries.
+          Google Trips (discontinued but relevant): Google Trips was an app that helped plan and organize travel by pulling information from user's emails and providing offline access to itinerary details. Its integration with other Google services posed a significant competitive edge.
+          Komoot: Targeted at outdoor enthusiasts, Komoot offers detailed route planning for hiking and biking adventures. Its niche focus on outdoor activities competes with WanderWise’s potential offerings in similar domains.
+          Complementary Products
+          Booking.com and Airbnb: These platforms provide accommodation booking services which are essential once an itinerary is planned. Integration with such platforms could offer users a seamless experience from planning to booking.
+          Yelp and Zomato: For dining options along an itinerary, Yelp and Zomato could complement WanderWise by providing reviews and suggestions for restaurants. Potential API integrations could enhance user experience by offering meal stops directly in the travel itinerary.
+          Weather Apps: Real-time weather information is crucial for travelers. Integrating weather forecasts into WanderWise could improve the planning process, making it adaptive to environmental conditions.
+          Culture Trip: With its focus on cultural content, Culture Trip can complement WanderWise by providing users with deep insights into the cultural aspects of their travel destinations, enhancing the overall richness of the travel planning process.
+          Flight Booking Platforms (SkyScanner, Google Flights): These platforms could serve as essential complements to WanderWise, offering users the ability to book flights directly related to the itineraries they plan on the app.
 
 
-This analysis highlights that while there are strong competitors in the travel planning space, there are also numerous opportunities for WanderWise to integrate with or leverage complementary products to enhance its offerings. Developing partnerships or features that bridge these services could significantly boost WanderWise’s value proposition, making it not only a tool for itinerary planning but a comprehensive travel planning platform.
+          This analysis highlights that while there are strong competitors in the travel planning space, there are also numerous opportunities for WanderWise to integrate with or leverage complementary products to enhance its offerings. Developing partnerships or features that bridge these services could significantly boost WanderWise’s value proposition, making it not only a tool for itinerary planning but a comprehensive travel planning platform.
 
-"
+            "
 
   - name: value_proposition
     index: 4
