@@ -3,7 +3,7 @@
 ## Security, privacy, and data retention policies
 
 *Which are the applicable laws and regulations?*
-- Regulation from [Google Map API geolocation](https://developers.google.com/maps/documentation/geolocation/policies?hl=fr)
+- Regulation from [Google Map API geolocation](https://developers.google.com/maps/documentation/geolocation/policies?hl=en)
 
 *What are your internal policies?*
 - Do not store the location of users online
