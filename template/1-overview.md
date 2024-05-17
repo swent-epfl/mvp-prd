@@ -15,4 +15,4 @@ Proxima aims to bridge the gap between virtual connections and physical presence
 
 Proxima is free for all users, with the primary target audience being social media enthusiasts and explorers. 
 
-The app will be available on both Android and iOS platforms.
+The app is now available for Android devices and will soon be available for iOS devices.

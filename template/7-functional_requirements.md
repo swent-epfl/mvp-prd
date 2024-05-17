@@ -3,6 +3,7 @@
 *Max 3 pages.*
 
 *List the key features of the MVP precisely.*
+
 - User Authentication
 - Post Creation
 - Location-Based Feed
