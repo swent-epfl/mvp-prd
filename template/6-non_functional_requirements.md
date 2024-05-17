@@ -3,8 +3,10 @@
 ## Security, privacy, and data retention policies
 
 *Which are the applicable laws and regulations?*
+- Regulation from [Google Map API geolocation](https://developers.google.com/maps/documentation/geolocation/policies?hl=fr)
 
 *What are your internal policies?*
+- Do not store the location of users online
 
 *Which privacy features do you need from the phone?*
 
