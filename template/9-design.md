@@ -6,6 +6,7 @@
 - Dart
 - Flutter
 - Firebase
+- GeoFlutterFirePlus
 
 *If applicable, describe essential screens.*
 - Login
