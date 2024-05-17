@@ -61,6 +61,7 @@ User Stories for Local Explorers:
 *The MVP must be viable and minimal.*
 
 *Which features don’t belong in it.*
+
 - Media Support (Photos, GIFs, Videos): Excluded initially to focus on core functionalities. Planned for future updates to enhance post richness.
 - Heat Map of Trending Areas: Deferred to avoid complexity in the initial release. Will be added later to provide users with a visual representation of popular spots.
 
