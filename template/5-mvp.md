@@ -24,10 +24,10 @@
 
 *If applicable, progress in discussions with ecosystem partners / investors / customers.*
 
-- User Adoption and Engagement  
-- Active User Retention  
-- User Satisfaction and Feedback  
-- Partnerships and Investment  
+- User Adoption and Engagement
+- Active User Retention
+- User Satisfaction and Feedback
+- Partnerships and Investment
 
 ## Features Outside the Scope
 
