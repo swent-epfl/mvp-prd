@@ -25,10 +25,12 @@
 ## Data Model
 
 *What data are you collecting / managing?*
-- User: id, name, email, password
+- User: id, name, email, password, joined date
+  - UserComments: comment_id, content, post_id
 - Post: id, user_id, content, location, created_at
-- Comment: id, user_id, content, created_at
-- Vote: id, user_id, post_id, value, created_at
+  - Vote : id, user_id, vote_type
+  - Comment: id, user_id, content, created_at
+    - Vote : id, user_id, vote_type
 - Challenge: id, title, description, start_date, end_date, reward
 
 *How is it organised?*
