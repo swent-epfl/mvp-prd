@@ -8,9 +8,13 @@
 
 *Which privacy features do you need from the phone?*
 
+- Privacy
+- Moderation
+- Authentication
+
 ## Adoptions, Scalability and Availability
 
 *What kind of traffic patterns do you expect to see?*
 
 *Are there known periods of bursty traffic that the MVP must be designed to support?*
-
+- High concentration of users in one place, e.g. concerts
