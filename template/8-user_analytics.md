@@ -6,7 +6,7 @@
 - Number of active users
 - Number of posts created
 - Number of comments
-
+- Number of Centauri points per user.
 *What is the success criteria?*
 
 *What is the analysis plan (link to data collection)?*
