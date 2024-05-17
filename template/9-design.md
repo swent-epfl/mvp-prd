@@ -4,8 +4,18 @@
 
 *List the key libraries, languages, components used by the MVP.*
 - Dart
+- Flutter
+- Firebase
 
 *If applicable, describe essential screens.*
+- Login
+- Home
+- Profile
+- Post Creation
+- Post Details
+- Challenges
+- Map
+
 
 ## Backend
 
