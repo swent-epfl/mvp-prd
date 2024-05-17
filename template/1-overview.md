@@ -8,7 +8,7 @@
 
 Although people get closer through social media, they are physically farther than ever, so we present you Proxima.
 
-Imagine a social app that encourages people to visit interesting places instead of staying at home. allows users to create and share posts with a unique twist: to read a post, users must physically visit the location where it was published.
+Imagine a social app that encourages people to visit interesting places instead of staying at home. This allows users to create and share posts with a unique twist: to read a post, users must physically visit the location where it was published.
 
 
 Proxima aims to bridge the gap between virtual connections and physical presence by encouraging users to discover and share interesting locations. This approach promotes outdoor activity, discovery, and interaction with the environment.
