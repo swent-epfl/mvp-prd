@@ -3,12 +3,14 @@
 ## Frontend
 
 *List the key libraries, languages, components used by the MVP.*
+
 - Dart
 - Flutter
 - Firebase
 - GeoFlutterFirePlus
 
 *If applicable, describe essential screens.*
+
 - Login
 - Home
 - Profile
@@ -25,6 +27,7 @@
 ## Data Model
 
 *What data are you collecting / managing?*
+
 - User: id, name, email, password, joined date
   - UserComments: comment_id, content, post_id
 - Post: id, user_id, content, location, created_at
@@ -37,6 +40,7 @@
 Comments are in a subcollection of posts, votes are in a subcollection of posts, challenges are a subcollection of users.
 
 *Where is it stored?*
+
 - Google Firebase
 
 *How is it shared/copied/cached?*

@@ -3,6 +3,7 @@
 ## Personas and Scenarios
 
 *Who are the target personas for this product?*
+
 - Frequent Social Media Users: Individuals who actively use social media platforms to share experiences and connect with others.
 - Travelers: Individuals who travel frequently and look for unique local experiences.
 - Local Explorers: Residents who want to discover hidden gems and interesting spots in their own city.
@@ -10,6 +11,7 @@
 *Which is the key persona?*
 
 *High-level scenarios to adopt, use and share the product.*
+
 - Discovering Local Posts: Users explore their surroundings and discover posts created by others within a 100-meter radius.
 - Creating Posts: Users share interesting places they visit by creating posts with titles, descriptions, and embedded locations.
 - Engaging with Content: Users interact with posts by commenting, upvoting, and downvoting.
@@ -20,6 +22,7 @@
 *User stories about how various personas will use the product in context.*
 
 User Stories for Frequent Social Media Users:
+
 - "As a social media enthusiast, I want to discover posts around me so that I can explore new places and share my experiences."
 - "As a user, I want to create posts with a title, description, and location to share interesting places I visit."
 User Stories for Travelers:
@@ -29,6 +32,7 @@ User Stories for Local Explorers:
 
 *Identify and prioritise the key features required.*
 *Justify the importance of each feature.*
+
 - User Authentication: Necessary for security and personalized user experiences.
 - Post Creation: Central to the app's purpose of sharing and discovering locations.
 - Location-Based Feed: Key to the unique value proposition of Proxima, encouraging physical exploration.
@@ -57,6 +61,7 @@ User Stories for Local Explorers:
 *The MVP must be viable and minimal.*
 
 *Which features don’t belong in it.*
+
 - Media Support (Photos, GIFs, Videos): Excluded initially to focus on core functionalities. Planned for future updates to enhance post richness.
 - Heat Map of Trending Areas: Deferred to avoid complexity in the initial release. Will be added later to provide users with a visual representation of popular spots.
 
