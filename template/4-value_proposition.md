@@ -8,3 +8,13 @@
 
 *3. Relevant*
 
+For attendees : 
+- Simple way to find new events to join
+- User friendly interface for info and joining
+- Right on time Notifications to be reminded of your schedule
+- Rating system to see if events are worth attending 
+
+For event creators : 
+- Quick way to create small gathering
+- Easy attendees management, with invite and join system
+- Feature-full event management for complex events

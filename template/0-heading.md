@@ -1,4 +1,4 @@
-# MVP PRD: Project Name
+# MVP PRD: GoMeet
 
-*[2024.04.20]*
+*[2024.05.18]*
 
