@@ -9,6 +9,7 @@
 - Jetpack Compose
 - Stream.io
 - SonarCloud
+- Firebase
 
 *If applicable, describe essential screens.*
 
@@ -25,13 +26,20 @@
 
 *What data are you collecting / managing?*
 
+- User : profile username, login email, profile picture, added contacts and localisation if activated
+- Groups : name, group profile picture, members, topics, timers
+- Topic : name, contents (topic items that contain list of strong users, resources and the parent topic)
+- User calendar, todos, solo timer
+
 *How is it organised?*
 
 *Where is it stored?*
 
-- Firebase, local storage on the phone
+- Firebase, local storage on the phone (for the todos)
 
 *How is it shared/copied/cached?*
+
+- All on firebase 
 
 ## Security Considerations
 
