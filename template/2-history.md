@@ -8,3 +8,5 @@
 
 *What is missing to bridge from PoC to MVP?*
 
+- Most features implemented 
+- Add some smaller features like flashcards, automatisation of exercises 
