@@ -16,7 +16,7 @@
 - LoginScreen, AccountSettings, GroupSetting
 - SoloStudyHome : where tabs can lead to FlashCardScreen, TimerScreenContent (solo timer), CalendarScreen and ToDoListScreen
 - GroupHomeScreen : lead to GroupScreen for each group, can then access TopicScreen, CallLobbyScreen into VideoCallScreen and SharedTimerScreen
-- ChatScreen and DirectMessageScreen
+- ChatScreen and DirectMessageScreen : ChatScreen where each chats (Group, Topic or Private) display the messages and DirectMessageScreen where we have the list of each private chats or can start new chat based on the list of friends
 
 ## Backend
 
@@ -30,6 +30,7 @@
 - Groups : name, group profile picture, members, topics, timers
 - Topic : name, contents (topic items that contain list of strong users, resources and the parent topic)
 - User calendar, todos, solo timer
+- Message : sender, timestamp, and text or Uri depending of the type of message
 
 *How is it organised?*
 
