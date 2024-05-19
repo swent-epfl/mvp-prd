@@ -52,6 +52,9 @@ Lambda User :
 *Metrics include user penetration, quality / satisfaction.*
 
 *If applicable, progress in discussions with ecosystem partners / investors / customers.*-->
+Our main criteria would be a self-sustaining event ecosystem. We need to reach a critical mass where enough users in a community are users of the app that creating an event on the app is a natural way to  start organising an event. 
+
+This would mainly come from an heavy penetration in a community rather than a necessarily wide userbase : as we center on physical meeting, a user need real lif acquaintances to be member of the app to get ideal value out of the app. An obvious first area to concentrate or effort is the EPFL campus.
 
 ## Features Outside the Scope
 
@@ -60,4 +63,8 @@ Lambda User :
 *Which features don’t belong in it.*
 
 *How should these be eventually integrated and in what sequence.*-->
+
+Should an integrated ticketing system be considered as part of the MVP ? 
+Partnering with events for ticket sale could be a major driver for installation.
+But delivering a good experience is notoriously complex. 
 

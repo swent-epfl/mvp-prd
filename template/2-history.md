@@ -18,5 +18,3 @@ Basic functions are:
 - Event discovery through the map and the trends page
 - Event sharing through QR codes and friends invite
 - Information sharing through chat and Event update posts
-<!-- A enlever si ça vous conviens pas. on en a parlé avec youssef. C est l'outline, j ai mis pour rajouter du contenu. Ça serai simplement des updates rajoutés dans la desciption d un event, pour donner des annonces en plus-->
-
