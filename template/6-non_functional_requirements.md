@@ -39,6 +39,14 @@ If content is reported by multiple users, it will first be evaluated by an AI sy
 2. It must also maintain good performance and responsiveness in high content density areas, such as big towns, monuments, and concerts, to provide a smooth user experience in these environments.
 3. The backend should be designed to easily support the addition of new features over time, ensuring the application can evolve and adapt to meet changing user needs and technological advancements.
 
+### Availability
+
+1. **High Uptime**: Uptime is crucial for any social media platform. Therefore, our application should maintain an uptime above 99.9% to ensure that users have reliable and continuous access to the service.
+2. **GPS Signal Handling**: In cases of poor or low precision GPS signal, the application should remain usable. It should include a manual refresh option to prevent content from appearing or disappearing unexpectedly, providing a more stable user experience.
+3. **Update Pipeline**: The application should have a predefined update pipeline that ensures backward compatibility. This approach will guarantee that all users can access the application seamlessly before and after updates, minimizing disruptions.
+4. **Performance and Crash Monitoring**: Anonymous performance and crash metrics should be continuously monitored. This data will help detect and resolve potential issues more quickly, ensuring the application remains stable and performs well for all users.
+
+
 ## Security, privacy, and data retention policies
 
 *Which are the applicable laws and regulations?*
