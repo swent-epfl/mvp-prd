@@ -11,6 +11,13 @@ In Proxima, all content—posts, comments, and interactions—is intrinsically l
 The second crucial aspect of Proxima is its engaging approach to content consumption. Proxima introduces daily challenges where users must "hunt" for posts to read and earn Centauri points. This gamified element creates a friendly competition among users to accumulate the most points. This treasure-hunter experience not only makes content discovery more engaging but also motivates users to explore their surroundings actively.
 
 
+Regarding customers, Proxima targets small businesses where physical interaction is crucial, such as small shops and restaurants. Proxima will offer these businesses a location-based advertisement system, bringing several benefits:
+
+- **Relevance**: This ensures that advertisements are relevant to the users who encounter them, as the ads are tied to the users' current location.
+- **Proximity**: Because the advertising is location-based, users will be near the business when they see the ad. This significantly reduces the effort required for users to visit the business, resulting in a higher conversion rate of potential customers for advertisers.
+
+These factors make Proxima particularly appealing to small businesses, as it allows them to reach an audience that is both relevant and physically able to visit their location, all at a low conversion cost. In contrast, traditional social media advertisements may be shown to users who are hundreds of kilometers away from the business, making the ads less effective. This advertisement system contributes to the unique environment that Proxima aims to provide, enhancing both user experience and business engagement.
+
 
 *Describe the value proposition and argue that it is:*
 
