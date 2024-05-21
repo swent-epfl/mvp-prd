@@ -25,7 +25,13 @@ Moderation is a crucial aspect of any public social media platform, and our appl
 If content is reported by multiple users, it will first be evaluated by an AI system to determine its appropriateness. If the AI model cannot fully decide on the nature of the content, human moderators will be engaged to make the final decision on whether to remove the content or not. This combined approach ensures that moderation is efficient, accurate, and fair, maintaining a safe and respectful environment for all users.
 
 
+## Adoptions, Scalability and Availability
 
+### Adoption
+
+1. Upon the initial launch of the app, users should be able to view and post content with minimal steps to reduce conversion costs and facilitate quick engagement.
+2. When accessing the challenges page for the first time, users should receive a brief tour explaining how the challenges work and the logic behind Centauri points.
+3. Users should be able to view nearby content on a map immediately, highlighting the location-based features of the application.
 
 
 
