@@ -2,6 +2,10 @@
 
 ## Security, privacy, and data retention policies
 
+### Security
+
+User authentication is managed by the third-party Google Authentication system. Consequently, credential data does not pass through our backend, ensuring that none of this highly sensitive information (such as passwords and tokens) is retained or exposed to risk on our side. This approach leverages Google's robust security infrastructure, providing a secure and reliable authentication process for our users.
+
 ### Location Policy
 
 The primary privacy consideration for Proxima concerns the management of user location data. Recognizing the sensitivity of this information, we have established a strict policy regarding its usage.
