@@ -18,6 +18,11 @@ The primary privacy consideration for Proxima concerns the management of user lo
 
 Proxima will not store any user location data on the backend. The only location data stored in the backend are the locations of posts. While these locations are initially linked to a user at the time of posting, they quickly become non-relevant as users move to different places. This approach ensures that users' location privacy is maintained while still enabling the core functionalities of the application.
 
+### Moderation
+
+Moderation is a crucial aspect of any public social media platform, and our application is no exception. Our policy regarding moderation will be based on a reporting system complemented by AI analysis and human judgment.
+
+If content is reported by multiple users, it will first be evaluated by an AI system to determine its appropriateness. If the AI model cannot fully decide on the nature of the content, human moderators will be engaged to make the final decision on whether to remove the content or not. This combined approach ensures that moderation is efficient, accurate, and fair, maintaining a safe and respectful environment for all users.
 
 
 
