@@ -33,7 +33,11 @@ If content is reported by multiple users, it will first be evaluated by an AI sy
 2. When accessing the challenges page for the first time, users should receive a brief tour explaining how the challenges work and the logic behind Centauri points.
 3. Users should be able to view nearby content on a map immediately, highlighting the location-based features of the application.
 
+### Scalability
 
+1. The application must scale well to accommodate a high number of users and a large volume of content, ensuring seamless performance as the user base grows.
+2. It must also maintain good performance and responsiveness in high content density areas, such as big towns, monuments, and concerts, to provide a smooth user experience in these environments.
+3. The backend should be designed to easily support the addition of new features over time, ensuring the application can evolve and adapt to meet changing user needs and technological advancements.
 
 ## Security, privacy, and data retention policies
 
