@@ -1,36 +1,68 @@
-# Design and Implementation
+## Design and Implementation
 
 ## Frontend
 
-*List the key libraries, languages, components used by the MVP.*
+#### Implementation framework
 
-*If applicable, describe essential screens.*
+The application will be developed for Android using Kotlin. This approach ensures a modern, null-safe and efficient implementation of the app's UI and business logic.
+
+#### Dynamic UI Rendering Strategy
+
+Composed of two primary flows (Admin flow and Crew/Pilot flow), our JetBrains Compose based UI will render different screens depending on the type of user. This routing enables efficient navigation through app features.
+
+- The Admin flow includes a Home screen featuring upcoming flights, User management screen, Chat screen, and a Statistics screen dedicated to finished flights.
+- The Crew/Pilot flow includes a Home screen displaying user-specific upcoming flights, Flight screen handling in-flight procedures, Chat screen, and a Calendar for updating user availability and assigned flights.
+
+#### Framework
+
+Mainly, Jetpack Compose framework is employed for UI realization. Tailored specifically for our immediate needs, the UI is not subjected to constant changes.
 
 ## Backend
 
-*Decompose the MVP into functional blocks.*
+The application relies on Firebase for backend services, creating a frontend-focused environment. The Firebase SDK serves as a communication medium with Firebase.
+
+### Authentification
+
+The application employs Firebase authentication mechanism. All users are authenticated through Google, Facebook, Microsoft account or an email address.
+
+### Database
+
+Google Cloud Firestore, a No-SQL database, is used for data storage. It supports live updates and limited queries. Firestore is employed both for long-term data storage like user, vehicle, and balloon data and real-time updates like current user position or a flight status. Firestore-managed cache caters to the application's caching needs.
+
+### Push notification
+
+Firebase Cloud Messaging (FCM) is used for push notifications. Notifications are triggered on receiving a message or the initiation of a flight.
 
 ## Data Model
 
-*What data are you collecting / managing?*
+The Firestore database is structured much like a SQL database with specific collections (tables) defined for each schema and relations established among them. The system also supports versioning of schemas enabling smooth updates and maintenance of old data.
 
-*How is it organised?*
+Database schemas comprise:
+- Balloons, vehicles, baskets schemas for inventory.
+- Flight, flight types, flight traces, and flight-member relation schemas for flight lifecycle management.
+- ocations, message group, and message schemas for real-time updates and message storage.
 
-*Where is it stored?*
-
-*How is it shared/copied/cached?*
-
-## Security Considerations
+<diagram of schemas>
 
 ## Infrastructure and Deployment
 
-*How is the application developed, tested and deployed?*
+Firebase infrastructure hosts the backend server enabling a seamless deployment process. A Firebase application will be provisioned for each client, and the costs associated will be recharged to the client.
 
-*Any special infrastructure requirements.*
+An automated deployment process through Github actions will be set up to release the app on Google Play Store.
+
+A monitoring service running as a python cron job will be deployed to aggregate logs and monitor Firestore usage. Alerts will be set up if certain quota limits are reached.
 
 ## Test Plan
 
-*How is the application developed, tested and deployed?*
+Tests will be systematically carried out upon deployment/update.
 
-*Any special infrastructure requirements.*
+#### UI Tests
 
+Given the mainly static nature of the UI, extensive testing protocols will be developed to ensure user experience consistency.
+
+#### Backend Tests
+Consistency tests on the Firestore database will ascertain data integrity and correctness. Additionally, appropriate mockups of all Firebase products will be developed for a satisfactory testing environment.
+
+#### Performance Testing
+
+Performance tests will primarily focus on the Flight screen, particularly location tracking and recording functions - the expected bottlenecks. A stress test on messages and push notifications will also be done for smooth app functionality. Given the business nature of the app catering to a group of ~30 persons, high traffic is not a concern, still ensuring app performance is of utmost importance.
