@@ -33,16 +33,12 @@ Users associated with the same flight have access to a chat where they can poten
 
 ### Scalability
 
-Scalability
-
 The application must be designed to handle varying user loads effectively, particularly during peak periods such as peak tourist seasons, large group bookings, or popular local events. This ensures that balloon company operations remain smooth and efficient even under high demand.
 
-* Automatic Scaling: The application should dynamically allocate resources based on real-time user load, ensuring consistent performance.
+The application integrates automated deployment for new clients, including Firebase provisioning, database setup (rules, index createion...), and monitoring service configuration.
 
-* Optimal Performance: Maintain fast response times and efficient operation, even during peak usage periods such as weekends, holidays, and local events.
 
 ### Availability
 
-* The application must maintain a high uptime 99.9% to ensure the company remains operational and is not hindered by an unavailable tool.
-* Implement a highly available infrastructure to minimize downtime. This includes using redundant servers, failover mechanisms, and geographically distributed data centers to ensure continuous operation even if one component fails.
-* Incorporate real-time monitoring tools to track system performance and availability. Set up automated alerts to notify technical support teams immediately in case of any downtime or performance degradation, allowing for prompt resolution.
+Since the application is based on Firebase, it will achieve a high uptime of 99.9%, ensuring the company remains operational and is not hindered by an unavailable tool.
+
