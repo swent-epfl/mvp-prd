@@ -35,7 +35,7 @@ Users associated with the same flight have access to a chat where they can poten
 
 The application must be designed to handle varying user loads effectively, particularly during peak periods such as peak tourist seasons, large group bookings, or popular local events. This ensures that balloon company operations remain smooth and efficient even under high demand.
 
-The application integrates automated deployment for new clients, including Firebase provisioning, database setup (rules, index createion...), and monitoring service configuration.
+The application integrates automated deployment for new clients, including Firebase provisioning, database setup (rules, index creation...), and monitoring service configuration.
 
 
 ### Availability
