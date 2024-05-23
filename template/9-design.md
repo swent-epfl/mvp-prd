@@ -15,7 +15,7 @@ Composed of two primary flows (Admin flow and Crew/Pilot flow), our JetBrains Co
 
 #### Framework
 
-Mainly, Jetpack Compose framework is employed for UI realization. Tailored specifically for our immediate needs, the UI is not subjected to constant changes.
+Mainly, Jetpack Compose framework will be employed for UI realization. Tailored specifically for our immediate needs, the UI is not subjected to constant changes.
 
 ## Backend
 
@@ -23,19 +23,19 @@ The application relies on Firebase for backend services, creating a frontend-foc
 
 ### Authentification
 
-The application employs Firebase authentication mechanism. All users are authenticated through Google, Facebook, Microsoft account or an email address.
+The application employs Firebase authentication mechanism. All users will be authenticated through Google, Facebook, Microsoft account or an email address.
 
 ### Database
 
-Google Cloud Firestore, a No-SQL database, is used for data storage. It supports live updates and limited queries. Firestore is employed both for long-term data storage like user, vehicle, and balloon data and real-time updates like current user position or a flight status. Firestore-managed cache caters to the application's caching needs.
+Google Cloud Firestore, a No-SQL database, will be used for data storage. It supports live updates and limited queries. Firestore will be employed both for long-term data storage like user, vehicle, and balloon data and real-time updates like current user position or a flight status. Firestore-managed cache caters to the application's caching needs.
 
 ### Push notification
 
-Firebase Cloud Messaging (FCM) is used for push notifications. Notifications are triggered on receiving a message or the initiation of a flight.
+Firebase Cloud Messaging (FCM) will be used for push notifications. Notifications are triggered on receiving a message or the initiation of a flight.
 
 ## Data Model
 
-The Firestore database is structured much like a SQL database with specific collections (tables) defined for each schema and relations established among them. The system also supports versioning of schemas enabling smooth updates and maintenance of old data.
+The Firestore database will be structured much like a SQL database with specific collections (tables) defined for each schema and relations established among them. The system will also support versioning of schemas enabling smooth updates and maintenance of old data.
 
 Database schemas comprise:
 - Balloons, vehicles, baskets schemas for inventory.
