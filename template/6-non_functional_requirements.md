@@ -13,6 +13,8 @@ Our app will handle sensitive information, including user positions at given tim
 
 ### Map
 
+Permission to track a user's position is requested the first time the map is opened and can be disabled at any time.
+
 During an active flight, the positions of each crew member and the pilot (used for the flight track) are retrieved and stored. We need to ensure that user positions are only retrieved during the flight in question and that this data is only stored for the duration of the flight. The pilot's position, i.e. the position of the balloon during the flight, must be stored for a longer period to allow access to the flight trace once the flight has ended. Once the flight is over, all positional data, with the exception of the pilot's position, must be deleted immediately.
 
 ### Chat
@@ -41,6 +43,6 @@ The application must be designed to handle varying user loads effectively, parti
 
 ### Availability
 
-* The application must maintain a minimum uptime of 99.9% to ensure the company remains operational and is not hindered by an unavailable tool.
+* The application must maintain a high uptime 99.9% to ensure the company remains operational and is not hindered by an unavailable tool.
 * Implement a highly available infrastructure to minimize downtime. This includes using redundant servers, failover mechanisms, and geographically distributed data centers to ensure continuous operation even if one component fails.
 * Incorporate real-time monitoring tools to track system performance and availability. Set up automated alerts to notify technical support teams immediately in case of any downtime or performance degradation, allowing for prompt resolution.
