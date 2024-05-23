@@ -40,9 +40,9 @@ The Firestore database is structured much like a SQL database with specific coll
 Database schemas comprise:
 - Balloons, vehicles, baskets schemas for inventory.
 - Flight, flight types, flight traces, and flight-member relation schemas for flight lifecycle management.
-- ocations, message group, and message schemas for real-time updates and message storage.
+- Locations, message group, and message schemas for real-time updates and message storage.
 
-<diagram of schemas>
+![](./assets/data-model.svg)
 
 ## Infrastructure and Deployment
 
