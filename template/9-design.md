@@ -38,11 +38,12 @@ Firebase Cloud Messaging (FCM) will be used for push notifications. Notification
 The Firestore database will be structured much like a SQL database with specific collections (tables) defined for each schema and relations established among them. The system will also support versioning of schemas enabling smooth updates and maintenance of old data.
 
 Database schemas comprise:
-- Balloons, vehicles, baskets schemas for inventory.
-- Flight, flight types, flight traces, and flight-member relation schemas for flight lifecycle management.
-- Locations, message group, and message schemas for real-time updates and message storage.
 
-![](./assets/data-model.svg)
+* Balloons, vehicles, baskets schemas for inventory.  
+* Flight, flight types, flight traces, and flight-member relation schemas for flight lifecycle management.  
+* Locations, message group, and message schemas for real-time updates and message storage.  
+
+![](./assets/data-model.png)
 
 ## Infrastructure and Deployment
 
