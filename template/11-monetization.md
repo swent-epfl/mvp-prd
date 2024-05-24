@@ -1,6 +1,6 @@
 # Business Model
 
-*Revenue Streams*
+## Revenue Streams
 
 Our business model for Proxima is mainly based on advertising for businesses of any sizes. Our main value proposition is providing localized-based content, allowing businesses of any size to reach their targeted audience. This enables a campaign of any size based on the live location of the user, offering from worldwide coverage to precise targeting down to districts or even neighborhoods for centralized actions. This can be viewed as a digital version of local billboards.
 
@@ -9,7 +9,7 @@ Our localized based content is also able to provide event organizers (such as fe
 Proxima's business model is based on the density of users interacting in specific areas. We have to scale it according to how our user base grows in each region. We plan to launch at EPFL, and expand to new places, progressively allowing close monitoring and implementation of this business model.
 
 
-*Expected operating Costs*
+## Expected operating Costs
 
 At launch, Proxima's marking costs will be our primary expenses, as we depend on users' density within the launch area to grow.
 
