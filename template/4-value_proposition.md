@@ -21,18 +21,3 @@ These factors make Proxima particularly appealing to physical businesses, as it 
 In particular, the locality of the advertisement makes Proxima especially attractive for event organizers. By integrating specific time-limited experiences within a certain area, Proxima facilitates efficient promotion of events such as festivals, conventions, and more. 
 
 In contrast, traditional social media advertisements may be shown to users who are hundreds of kilometers away from the relevant location, making the ads less effective. This localized advertisement system contributes to the unique environment that Proxima aims to provide, enhancing both user experience and business engagement.
-
-*Describe the value proposition and argue that it is:*
-
-*1. Easy to communicate*
-
-- Simple concept: find virtual posts in the real world
-
-*2. Defensible*
-
-- Unique
-- Community building
-
-*3. Relevant*
-
-- Modern problem: Doom scrolling and isolation
