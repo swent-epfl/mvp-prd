@@ -45,26 +45,3 @@ If content is reported by multiple users, it will first be evaluated by an AI sy
 2. **GPS Signal Handling**: In cases of poor or low precision GPS signal, the application should remain usable. It should include a manual refresh option to prevent content from appearing or disappearing unexpectedly, providing a more stable user experience.
 3. **Update Pipeline**: The application should have a predefined update pipeline that ensures backward compatibility. This approach will guarantee that all users can access the application seamlessly before and after updates, minimizing disruptions.
 4. **Performance and Crash Monitoring**: Anonymous performance and crash metrics should be continuously monitored. This data will help detect and resolve potential issues more quickly, ensuring the application remains stable and performs well for all users.
-
-
-## Security, privacy, and data retention policies
-
-*Which are the applicable laws and regulations?*
-- Regulation from [Google Map API geolocation](https://developers.google.com/maps/documentation/geolocation/policies?hl=en)
-
-*What are your internal policies?*
-- Do not store the location of users online
-
-*Which privacy features do you need from the phone?*
-
-- Privacy
-- Moderation
-- Authentication
-
-## Adoptions, Scalability and Availability
-
-*What kind of traffic patterns do you expect to see?*
-
-*Are there known periods of bursty traffic that the MVP must be designed to support?*
-
-- High concentration of users in one place, e.g. concerts
