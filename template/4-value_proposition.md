@@ -16,7 +16,9 @@ Regarding customers, Proxima targets businesses where physical interaction is cr
 - **Relevance**: This ensures that advertisements are relevant to the users who encounter them, as the ads are tied to the users' current location.
 - **Proximity**: Because the advertising is location-based, users will be near the business when they see the ad. This significantly reduces the effort required for users to visit the business, resulting in a higher conversion rate of potential customers for advertisers.
 
-These factors make Proxima particularly appealing to physical businesses, as it allows them to reach an audience that is both relevant and physically able to visit their location, all at a low conversion cost. In contrast, traditional social media advertisements may be shown to users who are hundreds of kilometers away from the business, making the ads less effective. This advertisement system contributes to the unique environment that Proxima aims to provide, enhancing both user experience and business engagement.
+These factors make Proxima particularly appealing to physical businesses, as it allows them to reach an audience that is both relevant and physically able to visit their location, all at a low conversion cost.
+
+In particular, the locality of the advertisement makes Proxima especially attractive for event organizers. By integrating specific time-limited experiences within a certain area, Proxima facilitates efficient promotion of events such as festivals, conventions, and more. 
 
 
 *Describe the value proposition and argue that it is:*
