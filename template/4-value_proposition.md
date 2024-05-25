@@ -7,7 +7,7 @@ On the user side, the incentive for using the application emerges through two ma
 - Sharing content based on a common location-based context
 - Discovering content in a treasure-hunter fashion through challenges
 
-In Proxima, all content—posts, comments, and interactions—is intrinsically linked to the location where it was created. This establishes a shared context among users, which is unique to Proxima. Unlike other social networks, where context is often artificially created through threads or hashtags, Proxima ensures that users sharing content have a common "background" based on their physical presence at the same location. This commonality fosters a sense of connection between users, enabling them to interact based on shared experiences.
+In Proxima, all content—posts, comments, and interactions—is intrinsically linked to the location where it was created. This establishes a shared context among users, which is unique to Proxima. Unlike other social networks, where context is often artificially created through threads or hashtags, Proxima ensures that users sharing content have a common "background" based on their physical presence at the same location. This commonality fosters a sense of connection between users.
 
 The second crucial aspect of Proxima is its engaging approach to content consumption. Proxima introduces daily challenges where users must "hunt" for posts to read and earn Centauri points. This gamified element creates a friendly competition among users to accumulate the most points. This treasure-hunter experience not only makes content discovery more engaging but also motivates users to explore their surroundings actively.
 
