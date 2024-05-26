@@ -9,3 +9,7 @@ Applications that aim to provide a more outdoor experience through location-base
 ### Competitors
 
 The current main competitors are mainstream social media platforms (such as Reddit and Instagram) and location-based applications like Geocaching apps. However, these competitors either focus solely on social interaction or on location features in a fully gamified manner. None of them truly combine social interaction with location-based features. Proxima aims to bridge this gap by integrating both elements, offering a unique and engaging user experience.
+
+### Complementary Products
+
+The market also offers numerous complementary products to our application. Any product that facilitates travel or encourages outdoor experiences in a passive manner can serve as a complementary asset. For example, travel applications such as Google Maps can assist users in discovering new posts. Similarly, activity trackers can motivate users to engage in outdoor activities and potentially integrate their physical exercise with discovering posts on our app.
