@@ -104,6 +104,12 @@ The presence of this collection is justified to ensure that the user is not pres
 
 Centauri points accumulated by the group (int), Creation time (Timestamp).
 
+**Group members :** This collection manages the members of a group. It is a sub-collection nested under each group document, and each group member stores the following data: 
+
+Joining time (Timestamp).
+
+The document id corresponds to the user id of the member, allowing for retrieval of their data.
+
 ## Security Considerations
 
 ## Infrastructure and Deployment
