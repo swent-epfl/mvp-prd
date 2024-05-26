@@ -29,6 +29,12 @@ All application logic will be managed on the backend. The client will communicat
 This separation allows the logic to remain flexible and reduces the need for frequent app updates to fix bugs, as these can be addressed on the backend without modifying the client side. Additionally, this approach keeps the frontend lightweight and focused on optimizing the user experience.
 
 
+### Database Interactions
+
+All interactions with the database will be managed through the backend. The frontend will not have direct access to the database; instead, it will obtain the necessary data by communicating with the backend API.
+
+This design choice is primarily for consistency and security reasons. By restricting database access to the backend, we ensure that we can control and predict the actions performed on the database at any given time. This level of control would not be possible if the client had direct access to the database, as multiple versions of the application could lead to inconsistent interactions with the database. This approach is further justified when considering potential adversarial behavior from the client, where it is crucial to prevent direct database access to maintain security.
+
 
 ### Application logic
 The logic of the app is all managed in the backend and exposed though callable cloud functions to the front end.
