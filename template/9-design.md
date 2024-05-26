@@ -59,6 +59,12 @@ The backend for Proxima will utilize the Firebase suite. Specifically, the datab
 
 ## Data Model
 
+The data for Proxima are stored on Firebase Firestore in a NoSQL, document-oriented database. Additionally, data are cached locally on the client device to allow for offline usage. The data are organized into collections representing the components necessary for the application. Due to the nature of Proxima, the data are tightly tied to the user; therefore, authentication is required to access any of the data. This ensures that user data is secure and accessible only to authorized users.
+
+
+
+
+
 *What data are you collecting / managing?*
 
 - User: id, name, email, password, joined date
