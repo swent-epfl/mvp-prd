@@ -94,6 +94,12 @@ The document id corresponds to the id of the user who cast the vote. This setup 
 
 Expiring time (Timestamp), Has the challenge been completed (bool).
 
+**Past challenges :** This collection manages the past challenges proposed to the user (whether completed or missed). It is a sub-collection under each user, and each past challenge has the same structure as an active challenge, with the fields:
+
+Expiring time (Timestamp), Has the challenge been completed (bool).
+
+The presence of this collection is justified to ensure that the user is not presented with the same challenge more than once.
+
 
 - Users
 - Posts
