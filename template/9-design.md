@@ -43,6 +43,13 @@ Some features that Proxima exposes can require substantial computing resources. 
 The time-to-live (TTL) for cached data will be determined based on the importance of data freshness. For instance, the heatmap will be cached on a daily basis, as it is not critical for it to be constantly up to date. This approach ensures efficient use of resources while maintaining acceptable performance levels for users.
 
 
+### Listenable
+
+Some features of Proxima require the client to react to external events. For example, when a user is invited to join a group, the client needs to be notified of this event in real time. This will be accomplished through listenable Firestore documents.
+
+When a listenable logic is required, the cloud function will create a temporary document in a specific collection that the client will listen to. To maintain consistency with our *Database Interaction* policy, the client will only have read access to these documents, and any writes will be performed through backend API calls. This ensures that the client is promptly notified of relevant events while preserving the integrity and security of the backend.
+
+
 ### Framework
 
 The backend for Proxima will utilize the Firebase suite. Specifically, the database will be managed through Firestore. The backend API will be implemented using Firebase Cloud Functions, written in Node.js as required by the framework. These functions will be callable from the client. This setup provides a scalable and efficient infrastructure for managing the application's backend operations, ensuring reliability and performance.
