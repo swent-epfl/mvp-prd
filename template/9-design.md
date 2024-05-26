@@ -36,6 +36,14 @@ All interactions with the database will be managed through the backend. The fron
 This design choice is primarily for consistency and security reasons. By restricting database access to the backend, we ensure that we can control and predict the actions performed on the database at any given time. This level of control would not be possible if the client had direct access to the database, as multiple versions of the application could lead to inconsistent interactions with the database. This approach is further justified when considering potential adversarial behavior from the client, where it is crucial to prevent direct database access to maintain security.
 
 
+### Operation Caching
+
+Some features that Proxima exposes can require substantial computing resources. For example, computing the post heatmap involves reading and processing all posts within a specific area. To improve responsiveness and reduce operating costs, the backend will cache the results of such operations. 
+
+The time-to-live (TTL) for cached data will be determined based on the importance of data freshness. For instance, the heatmap will be cached on a daily basis, as it is not critical for it to be constantly up to date. This approach ensures efficient use of resources while maintaining acceptable performance levels for users.
+
+
+
 ### Application logic
 The logic of the app is all managed in the backend and exposed though callable cloud functions to the front end.
 
