@@ -2,7 +2,7 @@
 
 ## Revenue Streams
 
-Our business model for Proxima is mainly based on advertising for businesses of any sizes. Our main value proposition is providing localized-based content, allowing businesses of any size to reach their targeted audience. This enables a campaign of any size based on the live location of the user, offering from worldwide coverage to precise targeting down to districts or even neighborhoods for centralized actions. This can be viewed as a digital version of local billboards.
+Our business model for Proxima is mainly based on advertising for businesses of any sizes. Our main value proposition is providing localized-based content, allowing businesses of any size to reach their targeted audience. This enables campaigns of any size based on the live location of the user, ranging from worldwide coverage to precise targeting down to districts or even neighborhoods. This can be viewed as a digital version of local billboards.
 
 Our localized based content is also able to provide event organizers (such as festival organizers) time-limited event experiences for users within certain predefined areas. This is aimed to be beneficial to the three parties interacting. Our value proposition is to provide participant retention and event discovery through our heat map. We can engage the participants through challenges, point-earning and enlarged post reach during the event. This fosters application discovery and user loyalty.
 
