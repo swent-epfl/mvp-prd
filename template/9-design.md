@@ -78,7 +78,11 @@ The owner id is a string corresponding to the document id of the user who posted
 
 Content (String), Publication time (Timestamp), Voting score (int), Owner Id (String).
 
+**User comments:** This collection manages the comments left by a particular user. It is a sub-collection nested under each user, and each user comment has the following data: 
 
+Content (String), Parent post Id (String), Publication time (Timestamp).
+
+The document id of a user comment is the same as the document id of the comment under the post. This, combined with the Parent post Id, allows retrieval of the original comment. The redundancy of the fields Content and Publication time is intended to enable fast display of user comments on the profile page, avoiding the need to retrieve each comment's data from under each post. This improves responsiveness and reduces reading costs.
 
 
 
