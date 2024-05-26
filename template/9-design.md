@@ -22,6 +22,23 @@
 
 ## Backend
 
+### Application logic
+The logic of the app is all managed in the backend and exposed though callable cloud functions to the front end.
+
+### Framework 
+Cloud function, node.js
+
+
+### Database interactions
+All database interactions are done on the backend. The db is not accessible from the frontend.
+
+### Common task caching
+The backend will cache data that are common to many users. For instance, instead of recomputing the heatmap for each invocation, it will be cached on the backend. This will allow to reduce cost and make the app more responsive
+
+### Listeners for outside interaction
+The backend will expose some way to the frontend to listen to some particular actions. That is required to notify the frontend of an outside event. For example, when someone invites the user in a group.
+
+
 *Decompose the MVP into functional blocks.*
 
 ## Data Model
