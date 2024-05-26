@@ -55,14 +55,18 @@ When a listenable logic is required, the cloud function will create a temporary 
 The backend for Proxima will utilize the Firebase suite. Specifically, the database will be managed through Firestore. The backend API will be implemented using Firebase Cloud Functions, written in Node.js as required by the framework. These functions will be callable from the client. This setup provides a scalable and efficient infrastructure for managing the application's backend operations, ensuring reliability and performance.
 
 
-*Decompose the MVP into functional blocks.*
-
 ## Data Model
 
 The data for Proxima are stored on Firebase Firestore in a NoSQL, document-oriented database. Additionally, data are cached locally on the client device to allow for offline usage. The data are organized into collections representing the components necessary for the application. Due to the nature of Proxima, the data are tightly tied to the user; therefore, authentication is required to access any of the data. This ensures that user data is secure and accessible only to authorized users.
 
+We now provide the organization of the main data components managed by Proxima.
 
 
+**Users :** This collection manages user profile data. The users are stored in a root collection, and for each user, we keep track of the following data:
+
+Centauri points (int), Display name (String), Username (String), Join time (Timestamp).
+
+The distinction between the display name and the username is important. The display name is shown throughout the app and can be the same for multiple users, while the username is unique and used for identifying individual users.
 
 
 *What data are you collecting / managing?*
