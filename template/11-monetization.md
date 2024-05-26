@@ -11,8 +11,19 @@ Proxima's business model is based on the density of users interacting in specifi
 
 ## Expected operating Costs
 
-At launch, Proxima's marking costs will be our primary expenses, as we depend on users' density within the launch area to grow.
+At launch, Proxima's marketing costs will be our primary expenses, as we depend on users' density within the launch area to grow.
 
-Once Proxima starts expanding, we expect marketing cost to grow with it to help kick start user acquision within new areas. This growth will be accompanied with more operational costs, providing customer and user support, and getting in line with local laws. We also project advertiser acquisition to take up a considerable part of our operating costs to increase our revenue streams.
-Just like other social media, infrastructure costs such as hosting, bandwidth, and storage of user interactions and posts make up a significant part of our operating costs. However, our model offers significant advantages, allowing the storage of posts near their physical presence and reducing the cost of it. We believe that development, along with research and development, will take a moderate part of our expenses to keep our application relevant and increase user engagement.
+Once Proxima starts expanding, as for every social media the infrastructure costs such as hosting, bandwidth, and storage of user interactions and posts make up a significant part of our operating costs. However, our model offers significant advantages, allowing the storage of posts near their physical presence and reducing the cost of it. 
+
+We project marketing costs to grow with our expansion to help kick-start user acquisition in new areas. This growth will be accompanied by more operational costs, providing customer and user support, getting in line with local laws, and doing advertiser acquisition.
+
+To keep our application running and increase user engagement, we believe that development, along with research and development, will take a small part of our expenses compared to the two previously cited ones.
+
+So if we launch at EPFL. With 10,000 active users, using extensively all the features available. Self-hosting OpenStreeMap is necessary, considering the use of the map for posts, challenges and the heatmap. We estimate a cost of 200 CHF / month for server hosting. Moreover, we estimate the cost of fetching posts from Firebase, assuming 250 posts read per user per day, at 150 CHF / month.
+
+| Item                  | Cost / unit     |
+| --------------------- | --------------- |
+| OpenStreetMap Hosting | 200 CHF / month |
+| Firebase              | 150 CHF / month |
+| **TOTAL**             | 350 CHF / month |
 
