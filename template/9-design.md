@@ -100,6 +100,10 @@ Expiring time (Timestamp), Has the challenge been completed (bool).
 
 The presence of this collection is justified to ensure that the user is not presented with the same challenge more than once.
 
+**Groups :** This collection manages the various groups formed by users. It is a root collection, and each group document contains the following data: 
+
+Centauri points accumulated by the group (int), Creation time (Timestamp).
+
 ## Security Considerations
 
 ## Infrastructure and Deployment
