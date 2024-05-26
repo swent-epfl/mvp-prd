@@ -68,6 +68,25 @@ Centauri points (int), Display name (String), Username (String), Join time (Time
 
 The distinction between the display name and the username is important. The display name is shown throughout the app and can be the same for multiple users, while the username is unique and used for identifying individual users.
 
+**Posts:** This collection manages the location-based posts. The posts are stored in a root collection where for each post the following data is stored: 
+
+Title (String), Description (String), Publication time (Timestamp), Owner Id (String), Post location (GeoPoint), Post location geohash (String), Number of comments (int), Voting score (int).
+
+The owner id is a string corresponding to the document id of the user who posted the post. The post location geohash is used to perform efficient geo-queries that minimize the number of reads and thus the cost.
+
+
+
+
+
+
+- Users
+- Posts
+- Comments
+- Users comments
+- Votes
+- Challenges
+- Past Challenges
+
 
 *What data are you collecting / managing?*
 
