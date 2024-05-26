@@ -22,6 +22,14 @@
 
 ## Backend
 
+### Application Logic
+
+All application logic will be managed on the backend. The client will communicate the necessary information to retrieve the appropriate data it needs to display, and the backend will respond accordingly. For instance, the client will send its position to the backend, which will then provide the nearby posts.
+
+This separation allows the logic to remain flexible and reduces the need for frequent app updates to fix bugs, as these can be addressed on the backend without modifying the client side. Additionally, this approach keeps the frontend lightweight and focused on optimizing the user experience.
+
+
+
 ### Application logic
 The logic of the app is all managed in the backend and exposed though callable cloud functions to the front end.
 
