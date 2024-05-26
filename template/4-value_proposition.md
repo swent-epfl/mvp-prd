@@ -1,6 +1,6 @@
 # The Value Proposition
 
-Proxima provides a solution to this problem by uniquely combining content sharing and outdoor experiences in an intuitive and easy-to-use mobile application. The concept is simple: to share or consume content, users must physically go to the specified location to access it. This encourages real-world exploration and interaction, promoting a healthier balance between virtual engagement and physical activity.
+Proxima provides a solution to the problem of virtual confinement and social isolation by uniquely combining content sharing and outdoor experiences in an intuitive and easy-to-use mobile application. The concept is simple: to share or consume content, users must physically go to the specified location to access it. This encourages real-world exploration and interaction, promoting a healthier balance between virtual engagement and physical activity.
 
 On the user side, the incentive for using the application emerges through two main components:
 
