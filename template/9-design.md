@@ -123,9 +123,9 @@ To ensure that only our application can use our backend API, we will utilize Fir
 
 ## Infrastructure and Deployment
 
-*How is the application developed, tested and deployed?*
+We will maintain two Firestore databases: one for development and one for production. The code will first be developed and tested on the development database. Once validated, it will be deployed to the production database. This approach ensures that user data is not at risk during development and maintains a consistent production database.
 
-*Any special infrastructure requirements.*
+The deployment of the backend API is automatically managed by Firebase, which will allocate resources based on demand. This ensures a scalable backend that can handle varying loads efficiently.
 
 ## Test Plan
 
