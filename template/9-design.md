@@ -9,6 +9,8 @@ We use the Model View ViewModel (MVVM) architecture to ensure structured managem
 
 Storing and fetching the user interactions in the application are handled using the Firebase Core and Cloud Firestone Flutter plugins.
 
+**User location processing** In order to retrieve the user's surrounding posts and display the map with the current user location, we use the GeoLocator Flutter plugin. This plugin simplifies access to the user's current location on every platform. Additionally, we use GeoFlutterFire Plus, which simplifies the storage and fetching of Firebase documents based on their location. 
+
 ## Backend
 
 *Decompose the MVP into functional blocks.*
