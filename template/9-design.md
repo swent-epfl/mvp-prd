@@ -114,6 +114,10 @@ The document id corresponds to the user id of the member, allowing for retrieval
 
 ## Security Considerations
 
+**Firestore rules :**
+To enforce the access policy for our database, we will implement Firestore rules. By default, only the backend will have read/write access to the database. As described in the *Listenable* section above, only certain temporary documents will have read access for the client, allowing it to listen and be notified of events. These documents are temporary and will not contain any sensitive data. For all other documents, the client will not have read or write access. This ensures that sensitive data remains secure and that the backend retains control over database operations.
+
+
 ## Infrastructure and Deployment
 
 *How is the application developed, tested and deployed?*
