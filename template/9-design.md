@@ -135,8 +135,5 @@ The backend will be developed using a continuous integration approach with a min
 **Cost Tests :**
 For the implementation of new API functions, read/write cost tests will be performed under various conditions to ensure that the functions scale well in different environments. This will allow for better cost estimations and help avoid potential unexpected bills.
 
-
-*How is the application developed, tested and deployed?*
-
-*Any special infrastructure requirements.*
-
+**Crashlytics :**
+We will utilize Firebase Crashlytics to monitor potential crashes or errors in the application. This will help us quickly diagnose and address potential bugs, ensuring a more stable and reliable user experience.
