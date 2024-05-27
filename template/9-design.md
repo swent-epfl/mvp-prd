@@ -5,6 +5,9 @@
 **Implementation Framework** The application has been developed with Flutter, which is based on the Dart programming language. Flutter can natively compile on Android and iOS from the same code base, which allows us to launch the application to more users easily. 
 We use the Model View ViewModel (MVVM) architecture to ensure structured management and interactions between the UI and the application logic. We use the Riverpod plugin, which simplifies the application of the Observer pattern, reducing necessary UI refreshes.
 
+**Firebase communication** We use Firebase Authentication to handle user authentication. The Firebase Core, Firebase Auth and Google Sign-In Flutter plugins control the user authentication flow through a Google Sign-In intent on the Login screen.
+
+Storing and fetching the user interactions in the application are handled using the Firebase Core and Cloud Firestone Flutter plugins.
 
 ## Backend
 
