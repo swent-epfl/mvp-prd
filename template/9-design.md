@@ -129,6 +129,13 @@ The deployment of the backend API is automatically managed by Firebase, which wi
 
 ## Test Plan
 
+**Continuous Integration :**
+The backend will be developed using a continuous integration approach with a minimum code coverage threshold of 90%. This ensures that the implemented code has been thoroughly tested.
+
+**Cost Tests :**
+For the implementation of new API functions, read/write cost tests will be performed under various conditions to ensure that the functions scale well in different environments. This will allow for better cost estimations and help avoid potential unexpected bills.
+
+
 *How is the application developed, tested and deployed?*
 
 *Any special infrastructure requirements.*
