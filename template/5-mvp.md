@@ -35,7 +35,8 @@ Frequent Social Media Users are the primary target due to their high engagement 
 - **User Authentication:** Necessary for security and personalized user experiences.
 - **Post Creation and Location-Based Feed:** The core functionality of sharing and discovering places.
 - **Interaction Tools (Comments and Voting):** Enhances user interaction and engagement.
-- **Centauri Points and Challenges:** Motivate continued app usage and exploration with rewards
+- **Centauri Points and Challenges:** Motivate continued app usage by creating challenges with rewards in form of points
+- **Ranking System:** Encourages competition and engagement by displaying user rankings based on Centauri points.
 - **Map:** Allows users to navigate to post locations and to visualize nearby activities.
 - **Posts and comments management:** Allows users to track and manage their activity.
 - **Offline Mode:** Ensures usability even without internet access, improving user retention.
