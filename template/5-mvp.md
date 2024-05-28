@@ -50,6 +50,12 @@ Frequent Social Media Users are the primary target due to their high engagement 
 - **User Feedback:** Direct feedback and satisfaction surveys to gauge user experience.
 - **Partnerships and Investor Interest:** Progress in securing support and funding based on app traction and user growth.
 
+#### Benchmarking:
+- **User Adoption:** Targeting 1,000 downloads within the first month.
+- **Engagement Metrics:** Aim for an average of 1 post per user per day and 3 interactions (votes/comments) per post.
+- **User Feedback:** Achieve a minimum 4-star rating on app stores.
+- **Partnerships and Investor Interest:** Secure at least one partnership or investor meeting within the first three months.
+
 ## Features Outside the Scope
 
 For the MVP, the focus is on core functionalities that drive user engagement and retention. Additional features will be added in subsequent updates to enhance the user experience and expand the app's capabilities.
