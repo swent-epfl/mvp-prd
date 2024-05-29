@@ -45,7 +45,7 @@ When a listenable logic is required, the cloud function will create a temporary 
 
 ### Framework
 
-The backend for Proxima will utilize the Firebase suite. Specifically, the database will be managed through Firestore. The backend API will be implemented using Firebase Cloud Functions, written in Node.js as required by the framework. These functions will be callable from the client. This setup provides a scalable and efficient infrastructure for managing the application's backend operations, ensuring reliability and performance.
+The backend for Proxima will utilize the Firebase suite. Specifically, the database will be managed through Firestore and the media storage will be held on Firebase Storage solution. The backend API will be implemented using Firebase Cloud Functions, written in Node.js as required by the framework. These functions will be callable from the client. This setup provides a scalable and efficient infrastructure for managing the application's backend operations, ensuring reliability and performance.
 
 
 ## Data Model
