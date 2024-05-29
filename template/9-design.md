@@ -63,9 +63,10 @@ The distinction between the display name and the username is important. The disp
 
 **Posts :** This collection manages the location-based posts. The posts are stored in a root collection where for each post the following data is stored: 
 
-Title (String), Description (String), Publication time (Timestamp), Owner Id (String), Post location (GeoPoint), Post location geohash (String), Number of comments (int), Voting score (int).
+Title (String), Description (String), Publication time (Timestamp), Owner Id (String), Post location (GeoPoint), Post location geohash (String), Number of comments (int), Voting score (int), Media Link (URL).
 
 The owner id is a string corresponding to the document id of the user who posted the post. The post location geohash is used to perform efficient geo-queries that minimize the number of reads and thus the cost.
+The media link is a URL referencing the media displayed in the post, stored in Firebase Storage. It can be null if the post is only textual.
 
 **Comments :** This collection manages the comments under a post. It is a sub-collection nested under each post, and each comment contains the following data: 
 
