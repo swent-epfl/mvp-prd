@@ -39,3 +39,15 @@ Accurate and timely post-flight reporting is essential for regulatory compliance
 ### Proposed Solution:
 
 Automate the post-flight reporting process with pre-filled forms based on flight data. Enable pilots and crew to submit reports directly through the app, simplifying data entry and ensuring compliance. Integrate this system with regulatory reporting requirements for streamlined operations.
+
+## 5. Customer Management System
+
+### Motivation:
+
+Enhancing customer relationship management is crucial for business growth and retention. Existing methods may not provide the integrated approach needed to track customer interactions, preferences, and feedback effectively.
+
+### Proposed Solution:
+
+Create a customer management feature that consolidates customer data, booking history, feedback, and communication. This tool will support targeted marketing campaigns and provide insights into customer behavior, improving service and customer satisfaction.
+
+![](./assets/architecture-diagram.png)
