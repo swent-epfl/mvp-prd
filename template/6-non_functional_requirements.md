@@ -38,6 +38,7 @@ If content is reported by multiple users, it will first be evaluated by an AI de
 1. **High User Capacity**: The application must scale well to accommodate a high number of users and a large volume of content, ensuring seamless performance as the user base grows.
 2. **Content Density Performance**: It must also maintain good performance and responsiveness in high content density areas, such as big towns, monuments, and concerts, to provide a smooth user experience in these environments.
 3. **Feature Flexibility**: The backend should be designed to easily support the addition of new features over time, ensuring the application can evolve and adapt to meet changing user needs and technological advancements.
+4. **Backward Compatibility**: The backend should be backward compatible to ensure that the addition of new features does not require extensive modifications to the database.
 
 ### Availability
 
