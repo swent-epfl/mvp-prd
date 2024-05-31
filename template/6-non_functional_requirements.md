@@ -16,7 +16,7 @@ An important consideration is the deletion of accounts as required by law. Our p
 
 The primary privacy consideration for Proxima concerns the management of user location data. Recognizing the sensitivity of this information, we have established a strict policy regarding its usage. Proxima will not store any user location data on the backend. The only location data stored in the backend are the locations of posts. 
 
-Users know that this value is stored, and while we will make sure this data is not analyzed by us, other users can see it. This is typically not an issue since the fact that we were at some place at some point often quickly becomes irrelevant as we move somewhere else. We will, however, make sure that all posts a user has posted are visible on a map, so that if they later decide that the position of a post reveals something about them they do not want to be shared, they can delete it. This approach ensures that users' location privacy is maintained while still enabling the core functionalities of the application.
+Users know that this value is stored and that other users can see it. This is typically not an issue since the fact that we were at some place at some point often quickly becomes irrelevant as we move somewhere else. We will, however, make sure that all posts a user has posted are visible on a map, so that if they later decide that the position of a post reveals something about them they do not want to be shared, they can delete it. This approach ensures that users' location privacy is maintained while still enabling the core functionalities of the application.
 
 ### Moderation
 
