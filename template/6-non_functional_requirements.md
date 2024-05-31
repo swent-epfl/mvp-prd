@@ -22,7 +22,7 @@ Users know that this value is stored and that other users can see it. This is ty
 
 Moderation is a crucial aspect of any public social media platform, and our application is no exception. Our policy regarding moderation will be based on a reporting system complemented by AI analysis and human judgment.
 
-If content is reported by multiple users, it will first be evaluated by an AI system to determine its appropriateness. If the AI model cannot fully decide on the nature of the content, human moderators will be engaged to make the final decision on whether to remove the content or not. This combined approach ensures that moderation is efficient, accurate, and fair, maintaining a safe and respectful environment for all users.
+If content is reported by multiple users, it will first be evaluated by an AI detection system to determine its appropriateness. If the AI model cannot fully decide on the nature of the content, human moderators will be engaged to make the final decision on whether to remove the content or not. This combined approach ensures that moderation is efficient, accurate, and fair, maintaining a safe and respectful environment for all users. Moreover, since most of the content flagged for human moderation will be ambiguous, this approach benefits the mental health of social moderators by reducing their exposure to shocking or distressing content.
 
 
 ## Adoptions, Scalability and Availability
