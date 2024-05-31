@@ -11,7 +11,6 @@ By blending social media with location-based logic, Proxima aims to bridge the g
 The app provides various features, such as post creation, location-based feeds, commenting, voting, and earning rewards. Users are challenged to visit nearby posts, earning Centauri points as rewards for their explorations. The gamified experience adds a competitive element to content discovery, making it more engaging and rewarding.
 
 Proxima is free for all users, with the primary target audience being social media enthusiasts and explorers.
-In the future, we plan to provide businesses with a unique advertising platform that targets users based on their physical location. By offering location-based advertisements, Proxima helps businesses reach a relevant audience and drive foot traffic to their establishments. This localized advertising system enhances user experience and increases the effectiveness of marketing campaigns.
 
 The goal of the MVP (Minimum Viable Product) is to establish a solid user base, gauging success through metrics like downloads, active users, and user engagement levels. By achieving significant penetration, we aim to attract interest from potential partners and investors for future development.
 
