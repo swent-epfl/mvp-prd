@@ -15,6 +15,7 @@ Frequent Social Media Users are the primary target due to their high engagement 
 - **Creating Posts:** Users document and share locations by posting titles, descriptions, and the location.
 - **Engaging with Content:** Users engage through comments and votes, increasing interaction.
 - **Completing Challenges:** Users earn rewards by visiting nearby locations, enhancing their engagement.
+- **Word of mouth**: A user is hanging out with a friend. Looking for any interesting activities nearby, he opens the app to browse posts. Curious, the friend user asks about the app and then tries it out for himself.
 
 ## User Stories and Key Features
 
