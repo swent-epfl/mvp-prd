@@ -29,7 +29,7 @@ Frequent Social Media Users are the primary target due to their high engagement 
 2. "As a traveler, I want to use a map to navigate to posts and challenges, so I can find my way easily in new locations."
 
 #### User Stories for Local Explorers:
-1. "As a local explorer, I want to discover and hidden gems in my city by exploring posts from other residents."
+1. "As a local explorer, I want to discover and find hidden gems in my city by exploring posts from other residents."
 2. "As a local resident, I want to create local challenges that encourage people to explore lesser-known areas of my city."
 
 #### Key Features:
@@ -47,7 +47,7 @@ Frequent Social Media Users are the primary target due to their high engagement 
 
 #### Evaluation Metrics:
 - **User Adoption:** Measured by download numbers and active accounts.
-- **Engagement Metrics:** Frequency of app usage, interactions per user, and completion of challenges.
+- **Engagement Metrics:** Daily active accounts, daily average interactions per user (creating post or comments, completing challenges).
 - **User Feedback:** Direct feedback and satisfaction surveys to gauge user experience.
 - **Partnerships and Investor Interest:** Progress in securing support and funding based on app traction and user growth.
 
