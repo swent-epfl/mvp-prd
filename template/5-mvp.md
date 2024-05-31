@@ -45,6 +45,7 @@ Frequent Social Media Users are the primary target due to their high engagement 
 - **Offline Mode:** Ensures usability even without internet access, improving user retention.
 
 
+
 ## Success Criteria
 
 #### Evaluation Metrics:
@@ -63,25 +64,18 @@ Frequent Social Media Users are the primary target due to their high engagement 
 
 For the MVP, the focus is on core functionalities that drive user engagement and retention. Additional features will be added in subsequent updates to enhance the user experience and expand the app's capabilities.
 
-1. **Media Support (Photos, GIFs, Videos)**
-   - **Reason for Deferment:** Initial focus is on core functionalities like post creation and location-based feeds. Integrating media requires additional development time for implementing file upload, storage solutions, and media handling capabilities. This extension would also introduce complexities in moderation and content management. Implementing effective moderation tools for media content is crucial to maintain a safe and welcoming environment for all users.
-   - **Future Integration:** Scheduled for a major update following the initial launch, once adequate moderation systems are in place.
 
-2. **Profile Picture Customization**
+1. **Profile Picture Customization**
    - **Reason for Deferment:** Customization features like profile picture uploads were postponed to streamline the MVP development process. Incorporating such features would require additional development resources to support image uploading, resizing, and storage, which could extend the timeline and complicate the initial app release. Similary to media support, this feature would also introduce moderation challenges.
    - **Future Integration:** Planned for a subsequent update to enhance user personalization and identity within the app. This delay ensures that our development team can focus on delivering a solid, stable, and user-friendly initial release, setting a strong foundation for future enhancements.
 
-3. **Heat Map of Trending Areas**
+2. **Heat Map of Trending Areas**
    - **Reason for Deferment:** Requires a substantial user base to generate meaningful data. Premature introduction could lead to misleading or sparse data displays.
    - **Future Integration:** Aimed for integration once active user thresholds exceed 50,000, providing users with a visual representation of hotspots to explore, thereby driving engagement and exploration.
 
-4. **Comments Tree Structure**
+3. **Comments Tree Structure**
    - **Reason for Deferment:** Reduces complexity in initial development. A linear comment structure simplifies interactions during the early stages of the platform.
    - **Future Integration:** Nested comments will be introduced in a later phase to improve conversation tracking and readability, enhancing discussions and engagement on posts.
-
-5. **Groups**
-   - **Reason for Deferment:** Focuses initial user interactions on individual experiences to solidify the core value proposition of exploring new locations.
-   - **Future Integration:** Group functionalities will be added to encourage community building and group explorations, scheduled after establishing a robust user base and effective user engagement mechanisms.
 
 
 ### Roadmap for features expansion
