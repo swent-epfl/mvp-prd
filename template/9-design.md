@@ -11,6 +11,26 @@ Storing and fetching the user interactions in the application are handled using 
 
 **User location processing** In order to retrieve the user's surrounding posts and display the map with the current user location, we use the GeoLocator Flutter plugin. This plugin simplifies access to the user's current location on every platform. Additionally, we use GeoFlutterFire Plus, which simplifies the storage and fetching of Firebase documents based on their location. 
 
+### Essential screens
+
+**Login page**: First screen that appears when the user is not authenticated. It allows the user to authenticate and access the application.
+
+**Feed**: The feed is the central screen of the application. Shown when starting the application as an authenticated user, it displays the posts that are at less than one hundred meters away from the user. This screen allows us to sort the feed by hottest, top, latest, or even nearest posts. The feed displays, for every post, its title, the first seven lines of its description, its owner, the number of comments, the date of the post along with its upvote score. It also allows the user to upvote or downvote any posts directly from the feed screen.
+
+**Profile page**: The profile screens displays all the information associated to the user, such as his username, display name, number of centauri points, his badges, and number of followed user along with his number followers. It also displays the title and description of all of his posts and every comments that he posted. The user is able to delete any post or comment that is created from anywhere, directly from the profile page.
+
+**Post creation page**: Screen allowing the user to write a new post by setting its title and description. Before posting, the user is able to choose a group of near users with whom he wants to post and can choose whether to send a notification to his followers.
+
+**Post page**: Page displaying all the information associated to a particular post. This screen is displaying the title, complete description, owner, date, upvote score, and all the comments associated with the post. The user is able to sort the comments by top or latest at his convenience, and he can follow up on any comment, creating a thread of comments to discuss and interact about the original post.
+
+**Challenge page**: The challenge page displays all the current available challenges that the user can complete alone or as a group. A challenges is described by the post title and distance, along with the time left to reach the particular post. By clicking on a challenge we are redirected to the map, allowing the user to localize it more easily.
+
+**Group page**: The group page allow the user to create or join a group with nearby users, allowing them post and complete challenges together.
+
+**Map page**: The map page enables the user to switch between multiple maps that are of two main types. 
+First, we have the maps, allowing the user to see the precise location of his posts and current challenges. Moreover, he is also able to display all the posts that are less than one meter away from him.
+Additionally, the user is also able to access the heatmap, enabling him to see the places around the world that are currently attracting a lot of interaction.
+
 ## Backend
 
 ### Application Logic
