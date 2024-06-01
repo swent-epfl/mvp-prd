@@ -29,7 +29,7 @@ In order to retrieve the user's surrounding posts and display the map with the c
 
 **Post page**: Page displaying all the information associated to a particular post. This screen is displaying the title, complete description, owner, date, distance, upvote score, and all the comments associated with the post. The user is able to sort the comments by top or latest at his convenience, and they can follow up on any comment, creating a thread of comments to discuss and interact about the original post.
 
-**Challenge page**: The challenge page displays all the currently available challenges that the user can complete alone or as a group. A challenge is described by the post title and distance, along with the time left to complete it. By clicking on a challenge, we are redirected to the map, allowing the user to localize it more easily.
+**Challenge page**: The challenge page displays all the currently available challenges that the user can complete alone or as a group. A challenge is described by the post title and distance, along with the time left to complete it. By clicking on a challenge, the user is redirected to the map to localize it more easily.
 
 **Group page**: The group page allows the user to create or join a group with nearby users. It allows them to post and complete challenges together.
 
