@@ -15,7 +15,7 @@ Storing and fetching the user interactions in the application are handled using 
 
 **User location processing** 
 
-In order to retrieve the user's surrounding posts and display the map with the current user location, we use the GeoLocator Flutter package. This package simplifies access to the user's current location on every platform. Additionally, we use GeoFlutterFire Plus, which simplifies the storage and fetching of Firebase documents based on their location. 
+In order to retrieve the user's surrounding posts and display the map with the current user location, we use the GeoLocator Flutter package. This package simplifies access to the user's current location on every platform. Additionally, we use GeoFlutterFire Plus, which simplifies the storage and fetching of Firebase documents based on their location by leveraging Geohashing. 
 
 ### Essential screens
 
