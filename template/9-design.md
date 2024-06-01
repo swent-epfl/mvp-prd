@@ -34,7 +34,7 @@ In order to retrieve the user's surrounding posts and display the map with the c
 **Group page**: The group page allows the user to create or join a group with nearby users. It allows them to post and complete challenges together.
 
 **Map page**: The map page enables the user to switch between multiple maps that are of two main types. 
-First, we have the maps, allowing the user to see the precise location of his posts and current challenges. Moreover, they are also able to display all the posts that are less than one hundred meters away.
+First, we have the maps, allowing the user to see the precise location through pins of his posts and current challenges. Moreover, they are also able to display all the posts that are less than one hundred meters away. By clicking on any pin, the user is able to open Google Map and get a route to it.
 Additionally, the user is also able to access the heatmap, enabling them to see places around the world that are currently trending a lot of interaction.
 
 ## Backend
