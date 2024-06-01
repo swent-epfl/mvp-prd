@@ -2,23 +2,40 @@
 
 ## Frontend
 
-*List the key libraries, languages, components used by the MVP.*
+**Implementation Framework** 
 
-- Dart
-- Flutter
-- Firebase
-- GeoFlutterFirePlus
+The application has been developed with Flutter, which is based on the Dart programming language. Flutter can natively compile on Android and iOS from the same code base, which allows us to launch the application to more users easily. 
+We use the Model View ViewModel (MVVM) architecture to ensure structured management and interactions between the UI and the application logic. We use the Riverpod package, which simplifies the application of the Observer pattern, reducing necessary UI refreshes.
 
-*If applicable, describe essential screens.*
+**Firebase communication** 
 
-- Login
-- Home
-- Profile
-- Post Creation
-- Post Details
-- Challenges
-- Map
+We use Firebase Authentication to handle user authentication. The Firebase Core, Firebase Auth and Google Sign-In Flutter packages control the user authentication flow through a Google Sign-In intent on the login screen. Additionally, we plan to add additional OAuth providers, like Apple, to allow most of the users to choose one of the available options and easily authenticate.
 
+Storing and fetching the user interactions in the application are handled using the Firebase Core and Cloud Firestone Flutter packages.
+
+**User location processing** 
+
+In order to retrieve the user's surrounding posts and display the map with the current user location, we use the GeoLocator Flutter package. This package simplifies access to the user's current location on every platform. Additionally, we use GeoFlutterFire Plus, which simplifies the storage and fetching of Firebase documents based on their location by leveraging Geohashing. 
+
+### Essential screens
+
+**Login page**: First screen that appears when the user is not authenticated. It allows the user to authenticate and access the application.
+
+**Feed**: The feed is the central screen of the application. Shown when starting the application as an authenticated user, it displays the posts that are at less than one hundred meters away from the user. This screen allows them to sort the feed by hottest, top, latest, or even nearest posts. The feed displays, for every post, its title, the first seven lines of its description, its owner, the number of comments, the date of the post along with its upvote score. It also allows the user to upvote or downvote any posts directly from the feed screen.
+
+**Profile page**: The profile screen displays all the information associated to the user, such as their username, display name, number of centauri points, badges, number of followers along with their number of followed users. Moreover, it displays the title and description of all of their posts along with all of their comments. The user is able to delete any post or comment that they have created, from anywhere, directly from the profile page.
+
+**Post creation page**: Screen allowing the user to write a new post by setting its title and description. Before posting, the user is able to choose a group of nearby users with whom they want to post. They can also decide whether to send a notification to their followers.
+
+**Post page**: Page displaying all the information associated to a particular post. This screen is displaying the title, complete description, owner, date, distance, upvote score, and all the comments associated with the post. The user is able to sort the comments by top or latest at their convenience, and they can follow up on any comment, creating a thread of comments to discuss and interact about the original post.
+
+**Challenge page**: The challenge page displays all the currently available challenges that the user can complete alone or as a group. A challenge is described by the post title and distance, along with the time left to complete it. By clicking on a challenge, the user is redirected to the map to localize it more easily.
+
+**Group page**: The group page allows the user to create or join a group with nearby users. It allows them to post and complete challenges together.
+
+**Map page**: The map page enables the user to switch between multiple maps that are of two main types. 
+First, we have the maps, allowing the user to see the precise location through pins of their posts and current challenges. Moreover, they are also able to display all the posts that are less than one hundred meters away. By clicking on any pin, the user is able to open Google Map and get a route to it.
+Additionally, the user is also able to access the heatmap, enabling them to see places around the world that are currently trending a lot of interaction.
 
 ## Backend
 
