@@ -9,7 +9,7 @@ We use the Model View ViewModel (MVVM) architecture to ensure structured managem
 
 **Firebase communication** 
 
-We use Firebase Authentication to handle user authentication. The Firebase Core, Firebase Auth and Google Sign-In Flutter packages control the user authentication flow through a Google Sign-In intent on the Login screen.
+We use Firebase Authentication to handle user authentication. The Firebase Core, Firebase Auth and Google Sign-In Flutter packages control the user authentication flow through a Google Sign-In intent on the login screen. Additionally, we plan to add additional OAuth providers, like Apple, to allow most of the users to choose one of the available options and easily authenticate.
 
 Storing and fetching the user interactions in the application are handled using the Firebase Core and Cloud Firestone Flutter packages.
 
