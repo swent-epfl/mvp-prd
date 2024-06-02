@@ -16,6 +16,9 @@
 - **Data Collection Methods:**
 With the tools of Firebase Analytics and Google Analytics we already collect different times for creation, validation, termination and duration of a flight.
 We also collect user interactions metrics with the app with features like daily, weekly and monthly Active users and the sessions lengths and frequency for each users.
+We're going also to incorporate direct user feedback mechanisms, such as surveys or interviews, periodically to capture qualitative insights that might not be evident through behavioral data alone.
+To maintain data integrity and privacy, we implement rigorous security measures. Data is anonymized and encrypted both in transit and at rest. Access to analytics data is restricted to authorized personnel only, ensuring that user information is handled in compliance with relevant privacy regulations and policies. 
+
 - **Data Analysis Techniques:**
 With the help of charts (histograms, box plots, scatter plots), we're going to identify long-term movement in data in our metrics to see how close we are to our success criteria.
 
