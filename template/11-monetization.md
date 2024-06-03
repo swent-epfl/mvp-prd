@@ -19,7 +19,7 @@ We project marketing costs to grow with our expansion to help kick-start user ac
 
 To keep our application running and increase user engagement, we believe that development, along with research and development, will take a small part of our expenses compared to the two previously cited ones.
 
-So if we launch at EPFL. With 10,000 active users, using extensively all the features available. Self-hosting OpenStreeMap is necessary, considering the use of the map for posts, challenges and the heatmap. We estimate a cost of 200 CHF / month for server hosting. Moreover, we estimate the cost of fetching posts from Firebase, assuming 250 posts read per user per day, at 150 CHF / month.
+We have made the following operating costs estimation, considering an initial launch with 10,000 active users, extensively using all the features available. We have decided that we will host our own OpenStreeMap tile server, to reduce costs as Google Maps is more expensive. We estimate a cost of 200 CHF / month for server hosting. Moreover, we estimate the cost of fetching posts from Firebase, assuming 250 posts read per user per day, at 150 CHF / month.
 
 | Item                  | Cost / unit     |
 | --------------------- | --------------- |
