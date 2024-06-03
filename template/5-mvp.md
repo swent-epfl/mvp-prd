@@ -55,7 +55,7 @@ Frequent Social Media Users are the primary target due to their high engagement 
 - **Partnerships and Investor Interest:** Progress in securing support and funding based on app traction and user growth.
 
 #### Benchmarking:
-- **User Adoption:** Targeting 1,000 downloads within the first month.
+- **User Adoption:** Targeting 3,000 downloads within the first month.
 - **Engagement Metrics:** Aim for an average of 1 post per user per day and 3 interactions (votes/comments) per post.
 - **User Feedback:** Achieve a minimum 4-star rating on app stores.
 - **Partnerships and Investor Interest:** Secure at least one partnership or investor meeting within the first three months.
@@ -82,7 +82,7 @@ For the MVP, the focus is on core functionalities that drive user engagement and
 
 The roadmap for Proxima includes the following key milestones:
 0. **MVP Development:** Focus on core features for initial launch.
-1. **Launch**: Release the app in Switzerland, with universtity students as target users, to establish a user base and gather feedback.
+1. **Launch**: Release the app in Switzerland, with EPFL students as target users, to establish a user base and gather feedback.
 2. **Stability and Performance Improvements**: Address any issues identified post-launch and optimize the app for better performance.
 3. **User Growth and Engagement:** Focus on increasing user base and enhancing user interactions.
 4. **Feature Expansion:** Introduce additional features like heat maps, and nested comments.
