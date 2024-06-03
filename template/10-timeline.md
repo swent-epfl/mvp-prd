@@ -65,6 +65,28 @@ Final testing and deployment
 | Week 14 | First public release | Working app ready for marketing and further updates. |
 
 
-*What resources are required?*
+## Development Resources
 
+Human resources represent the main cost of the project. The 2 backend developers will be in charge of managing 
+the database and the API of the backend. The 2 frontend developers will be in charge of the client part of the app. The UI/UX designer will be in charge of the overall design of the app. The project manager will be in charge of the coordination of the team and the communication with the users.
 
+| **Function** | **Required person-months** |
+| --- | --- |
+| Frontend Flutter Developers | 8 |
+| Backend Developers | 8 |
+| UI/UX Designer | 4 |
+| Project Manager | 4 |
+
+## Deployment Resources
+
+We use the services of Google to manage our backend and to monitor the app. The map will be self-hosted with OpenStreetMap.
+
+| **Item** | **Cost / unit** | **Units** | **Totals** |
+| --- | --- | --- | --- |
+| OpenStreetMap Hosting | 200 CHF / month | - | 800 CHF |
+| Google Firebase | 150 CHF / month | - | 600 CHF  |
+| TOTAL | 1400 CHF |
+
+## Maintenance and Upkeep
+
+After the initial rollout, maintaining and updating the app will be crucial to ensure continued functionality and user satisfaction. This phase includes regular monitoring, updates, bug fixes, and improvements based on user feedback. The goal is to keep the app stable, secure, and responsive to user needs. The cost of the paid services and the developers will stay the same during this phase.
