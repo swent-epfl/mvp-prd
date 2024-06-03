@@ -4,4 +4,4 @@ The proof of concept (PoC) built at the end of sprint 10 contains many of the mo
 
 We already have many of the features we want in the PoC for the MVP. The two features that lack are groups and media support, which will be described in the section "The MVP".
 
-Moreover, the backend needs substantial changes, for security reasons. The logic should not be done on the phone of the user—which could be malicious—but using cloud functions. That way, we only send the data the user needs, hence putting our trust on the server and not on their device to filter data before reading it.
+Moreover, the backend needs substantial changes, for security reasons. The logic should not be done on the phone of the user—which could be malicious—but using cloud functions. That way, we only send the data the user needs, hence putting our trust on the server, instead of on their device to filter data before displaying it.
