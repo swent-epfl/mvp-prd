@@ -30,7 +30,7 @@ Frequent Social Media Users are the primary target due to their high engagement 
 
 #### User Stories for Local Explorers:
 1. "As a local explorer, I want to discover and find hidden gems in my city by exploring posts from other residents."
-2. "As a local resident, I want to create local challenges that encourage people to explore lesser-known areas of my city."
+2. "As a local resident, I want to create local posts so that people are challenged to explore lesser-known areas of my city."
 
 #### Key Features:
 - **User Authentication:** Necessary for security and personalized user experiences.
