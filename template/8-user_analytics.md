@@ -3,7 +3,9 @@
 ## Usage metrics
 
 Feature use : What screens are the most used
+
 User retention : Rate of users that keep using the app
+
 User engagement : Users interactions with events (creation, joining, searching)
 
 ## Success criteria
