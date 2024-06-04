@@ -1,9 +1,5 @@
 # Functional Requirements
 
-*Max 3 pages.*
-
-*List the key features of the MVP precisely.*
-
 1. **User Authentication**: Users must be able to authenticate into their account to user the app. For this, we use pre-existing infrastructure, such as google authentication.
 
 2. **Post Creation**: Users must be able to create posts containing text. These posts will have embedded location data.
@@ -23,8 +19,3 @@
 9. **Challenges**: Users get 3 challenges everyday. These are randomly picked from posts in their area. To complete these challenges, they have to travel to the post and open it.
 
 10. **Map Integration**: Users should be able to see all the nearby posts, all of their own posts and all their challenges on a map. It should be simple to navigate back and forth from the map to the other pages.
-
-*Include appropriate architectural diagrams.*
-
-*Describe key internal functionality.*
-
