@@ -9,4 +9,4 @@ Doing so, we learnt multiple important things concerning the technologies we use
 
 We already have many of the features we want in the PoC for the MVP. The two features that lack are groups and media support, which will be described in the section "The MVP".
 
-Moreover, the backend needs substantial changes, for security reasons. The logic should not be done on the phone of the user—which could be malicious—but using cloud functions. That way, we only send the data the user needs, hence putting our trust on the server, instead of on their device to filter data before displaying it.
+Moreover, substantial changes to the backend are necessary, for security reasons. Instead of relying on client-side logic—which can be compromised on user devices—we should use cloud functions. This approach ensures that only the necessary data is sent to the user device. This removes the need to trust it to filter the data before displaying it, putting trust on the server instead. 
