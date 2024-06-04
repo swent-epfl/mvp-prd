@@ -8,11 +8,11 @@
 
 4. **Commenting System**: Users must be able to leave comments on posts. 
 
-5. **Offline Mode**: Users must be able to see as much data as possible even when they are not online. Their user profile, own posts and comments and current challenges should be cached locally.
+5. **Offline Mode**: Users must be able to see as much data as possible even when they are not online. Their user profile, own posts and comments and current challenges should be cached locally and always be accessible.
 
 6. **Voting System**: Users should be able to upvote or downvote posts and comments.
 
-7. **Posts and comments management**: Users should always be able see all of their own posts and comments, and delete them if they want to. Deleting a post automatically deletes all the comments and information related to it.
+7. **Posts and comments management**: Users should always be able see all of their own posts and comments, and delete them if they want to. Deleting a post automatically deletes all the comments and any information related to it.
 
 8. **Centauri Points**: Users gain Centauri points by completing challenges. These provide cosmetic improvements on their profile. Users can see how much points they have in their profile as well as in a leaderboard, where they can compare themselves to everyone.
 
