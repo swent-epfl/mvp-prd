@@ -1,6 +1,6 @@
 # Functional Requirements
 
-1. **User Authentication**: Users must be able to authenticate into their account to user the app. For this, we use pre-existing infrastructure, such as google authentication.
+1. **User Authentication**: Users must be able to authenticate into their account to user the app. For this, we use pre-existing infrastructure, such as Google Sign-in or other common OAuth providers.
 
 2. **Post Creation**: Users must be able to create posts containing text. These posts will have embedded location data.
 
