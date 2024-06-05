@@ -83,8 +83,8 @@ We use the services of Google to manage our backend and to monitor the app. The 
 
 | **Item** | **Cost / unit** | **Units** | **Totals** |
 | --- | --- | --- | --- |
-| OpenStreetMap Hosting | 200 CHF / month | - | 800 CHF |
-| Google Firebase | 150 CHF / month | - | 600 CHF  |
+| OpenStreetMap Hosting | 200 CHF / month | 4 | 800 CHF |
+| Google Firebase | 150 CHF / month | 4 | 600 CHF  |
 | TOTAL | 1400 CHF |
 
 ## Maintenance and Upkeep
