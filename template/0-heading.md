@@ -1,4 +1,4 @@
-# MVP PRD: Project Name
+# MVP PRD: WanderWise
 
 *[2024.04.20]*
 
