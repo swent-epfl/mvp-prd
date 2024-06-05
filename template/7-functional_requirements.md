@@ -1,10 +1,12 @@
 # Functional Requirements
+Here are the functional requirements that we believe are necessary for the MVP to be successful.
 
-1. **User Authentication**: Users must be able to authenticate into their account to user the app. For this, we use pre-existing infrastructure, such as Google Sign-in or other common OAuth providers.
+
+1. **User Authentication**: Users must be able to authenticate into their account to user the app. For this, we will use pre-existing infrastructure, such as Google Sign-in or other common OAuth providers.
 
 2. **Post Creation**: Users must be able to create posts containing text. These posts will have embedded location data.
 
-3. **Location-Based Feed**: Users must be able to see in a feed all of the posts that were made inside of a 100m radius around their current position. This feed will have different sorting options.
+3. **Location-Based Feed**: Users must be able to see in a feed all of the posts that were made inside of a 100m radius around their current position. This feed will have different sorting options. One option will show the most trending post first, wich will use a combination of recency and number of upvotes. Another will simply show the most upvoted posts first. Another wil show the closest posts first. A last option will show the newest posts first. This allows the users to more easily find posts that are interesting to them.
 
 4. **Commenting System**: Users must be able to leave comments on posts. 
 
