@@ -1,23 +1,5 @@
 # History
 
-*Maximum 1 page*
-
-*Describe the V1 POC as planned by Sprint10.*
--Login through Google authetication\
--Find activities around you, either on the map or in a list format based either on user location or a chosen place\
--Save those activities\
--Save user preferences\
--Available in 3 languages\
--Can filter through activities\
--Step counter\
--Save information about the activities an user has done\
--Download Activities to access them while offline\
--Add friends\
--Send messages to friends\
-*What did you learn?*
-
-*What is missing to bridge from PoC to MVP?*
-
 Key features of the V1 PoC included Google authentication for a seamless and secure login experience. Users could easily find activities around them, either displayed on an interactive map or in a list format, based on their current location or a selected place. This feature ensured that users could discover new hiking, climbing, biking, and trail running spots effortlessly.
 
 To enhance user experience, the app allowed users to save activities and their preferences, making it simple to revisit favorite spots or receive tailored recommendations. Recognizing the diversity of language in Switzerland, Lasta was made available in three languages, ensuring accessibility for a wider audience. Additionally, users could filter through activities to find exactly what they were looking for, whether it was an easy hiking trail or a challenging climbing route.
