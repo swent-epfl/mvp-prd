@@ -4,9 +4,10 @@ This section will focus on how user behaviour will be tracked and how the succes
 ## Which are the key metrics?
 There are several significant metrics and key performance metrics we will use to quantify user engagement, adoption and retention as well as performance.
 
-1. User engagement metrics:
-    - Daily active users: Track how many users use the app every day. This will track 
-    - Session length: 
+1. User engagement metrics: daily active users, session length, app usage frequency
+1. User adoption metrics: new users sign-ups, conversion rates from app download to active app usage, conversion from free to premium features
+1. User retention metrics: number of returning users in a period of 30 days, churn rate (ratio of lost users by initial users over a time interval)
+1. Performance metrics: Analyze page load times
 
 ## What is the success criteria?
 
