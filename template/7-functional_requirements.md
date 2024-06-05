@@ -12,7 +12,7 @@ Users must be able to create posts. These can contain simple text or media, such
 Users must be able to leave comments on posts. This will allow them to interact with posts that they see. They should be able to choose between seeing most recent or most popular comments first, as they prefer.
 
 ### Voting System
-Users should be able to upvote or downvote posts and comments. That way, the other users are able to quickly discard posts that received a negative opinion from the community, and it also allows for challenges to be generated on interesting posts.
+Users should be able to upvote or downvote posts and comments. That way, the other users are able to quickly discard posts that received a negative opinion from the community.
 
 ### Location-Based Feed
 Users must be able to see in a feed all of the posts that were made inside of a 100m radius around their current position. This feed will have different sorting options:
