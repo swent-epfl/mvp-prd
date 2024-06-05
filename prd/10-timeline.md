@@ -20,7 +20,7 @@
 
 1. Setting up basic applications needed (SCRUM board, Github, SonarCloud, FireBase etc)
 2. Start basic implementation of MainActivity with login, set up navigation and database objects
-3. Implementation of user-related functionnalities like account creation, profile creation etc
+3. Implementation of user-related functionalities like account creation, profile creation etc
 
 4. Implementation of solo study features (calendar, ToDo list, timer, flashcard)
 5. Implementation of groups and topics as well as their management (add, delete, modify)
