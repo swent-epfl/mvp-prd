@@ -4,7 +4,7 @@
 
 ### Target Personas for the Product:
 
-**1. Balloon Company Owner (Key Persona):** Handles overall operations, financials, and strategic decision-making.
+**1. Balloon Company Owner / Administrator (Key Persona):** Handles overall operations, flight scheduling, financials, and strategic decision-making.
 
 **2. Pilot:** Manages flights, safety compliance, and direct operation of balloons.
 
@@ -31,10 +31,10 @@
 
 **2. As a Pilot, I need to track my current flight path and metrics in real-time, so that I can ensure safe flight operations.**
 
-- <u>Feature:</u> Real-Time GPS Tracking and Metrics Access
+- <u>Feature:</u> Real-Time GPS Tracking and sharing and Metrics Access
 - <u>Importance:</u> Increases safety and operational awareness during flights.
 
-**3. As a Ground Crew Member, I need to know the scheduled flights and their statuses, so that I can prepare for launches and landings effectively.**
+**3. As a Ground Crew Member, I need to know the scheduled flights and their status, so that I can prepare for launches and landings effectively.**
 
 - <u>Feature:</u> Real-Time Operational Dashboard
 - <u>Importance:</u> Improves ground operations and readiness.
