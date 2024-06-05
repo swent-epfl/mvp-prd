@@ -41,6 +41,6 @@ Users should be able to see all the nearby posts, all of their own posts and all
 
 
 ### Internal Architecture
-The different screen viewmodels will communicate with different repositories to optain the data they need. These repositories talk with the database and obtain the live data. This can be seen in the app architecture diagram.
+The different screen viewmodels will communicate with different repositories to optain the data they need. These repositories talk with the database and obtain the live data. This can be seen in the app architecture diagram, in figure \ref{app_diagram}.
 
-![App architecture diagram](./assets/app_diagram.jpg)
+![App architecture diagram \label{app_diagram}](./assets/app_diagram.jpg)
