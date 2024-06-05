@@ -1,18 +1,5 @@
 # Overview
 
-*Maximum: 2 pages*
-
-*What is this project about?*\
--Lasta is a project about the great outdoors of Switzerland\
--Help people find activities : climbing, biking, hiking\
--Save informations about activities the user has done\
--Socialize around those activities\
-
-*Describe succinctly and precisely its purpose.*\
-It is an app destined for swiss sportsmen and women as a whole-in-on to find activities, gather friends and track your performances.
-
-*Include a 3-sentence (max) elevator pitch.*
-
 Lasta is an all-encompassing Android app designed to revolutionize the outdoor sports community in Switzerland. It aims to enhance the experience of enthusiasts by providing a central hub for discovering and organizing activities such as hiking, climbing, and biking. The app seamlessly integrates various functionalities to streamline the planning and execution of outdoor adventures, making it an indispensable tool for both seasoned athletes and beginners.
 
 At the heart of Lasta is its user-friendly interface, which allows users to effortlessly search for and pinpoint the best spots for their chosen activities. The app provides comprehensive details on numerous climbing routes, and biking paths, including maps, difficulty levels, and user-generated reviews. This information helps users make decisions about their outdoor pursuits, ensuring they find locations that match their skill levels and preferences. Additionally, real-time insights on weather conditions are provided, enabling users to plan their trips with confidence and safety in mind.
