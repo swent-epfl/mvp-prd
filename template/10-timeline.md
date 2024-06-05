@@ -45,7 +45,7 @@ App screens development
 | --- | --- | --- |
 | Week 7 | Profile page | Developed profile page that enables the user to manage his personal data |
 | Week 8 | Challenge system | First Gamification of the app. |
-| Week 9 | Map page | Possibility to interact with the different posts and feature trough a map. | 
+| Week 9 | Map page and Open Street Map tile server setup | Possibility to interact with the different posts and feature trough a map. | 
 | Week 10 | Global app navigation | Ergonomic and functional app.|
 
 #### Milestone 4
