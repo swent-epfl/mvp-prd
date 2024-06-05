@@ -1,7 +1,6 @@
 # Functional Requirements
 Here are the functional requirements that we believe are necessary for the MVP to be successful.
 
-
 ### User Authentication
 Users must be able to authenticate into their account to use the app. For this, we will use pre-existing infrastructure, such as Google Sign-in or other common OAuth providers.
 
@@ -39,6 +38,5 @@ Users gain Centauri points by completing challenges. These provide cosmetic impr
 ### Map Integration
 Users should be able to see all the nearby posts, all of their own posts and all their challenges on a map. It should be simple to navigate back and forth from the map to the other pages. It should also be possible to seamlessly open the Google maps app to navigate to any post. This allows the user to precisely see where each post is, and also to know where to go to complete challenges. 
 
-
-### Internal Architecture
+## Internal Architecture
 The different screen viewmodels will communicate with different repositories to optain the data they need. These repositories talk with the database and obtain the live data. This can be seen in the app architecture diagram, in figure \ref{app_diagram} in the appendix.
