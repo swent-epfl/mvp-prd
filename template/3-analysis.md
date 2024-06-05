@@ -2,7 +2,7 @@
 
 ## Competing Products
 Currently, hot-air balloon companies are using seperate tools for each aspect of their business and most of them aren't particularly well tailored to their needs.
-A direct concurrence is therefore almost non-inexistant. However, on some key features e.g. the map that shows the current position of an airborn balloon, there already exist some professional apps. We would therefore need to make our product on par with the technical features that we share with our competitors to make the transition to our all-in-one app smooth and appealing.
+A direct concurrence for our software solution is therefore almost non-inexistant. However, on some key features e.g. the map that shows the current position of an airborn balloon, there already exist some professional apps. We would therefore need to make our product on par with the technical features that we share with our competitors to make the transition to our all-in-one app smooth and appealing.
 
 ## Complementary Products
 They are a few complementary products available that would enhance the experience for both operators and costumers:
