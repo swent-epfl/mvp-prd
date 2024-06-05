@@ -2,8 +2,7 @@
 
 *Expected operating Costs*
 
-We are planning to have some costs for the development of new features, the maintenance of the app or the marketing in order to promote our app. 
-But we will also have some costs for the hosting of the app and the expenses related to the external services we are using to make our app work.
+We are expecting some expenses for the development of new features, the maintenance of the app (external services and hosting) and the marketing in order to promote our app. Some examples are listed below :
 - Database operation, storage of data
 - Video call API
 - Google Maps API
@@ -12,14 +11,14 @@ But we will also have some costs for the hosting of the app and the expenses rel
 
 *Revenue Streams*
 In order to generate revenue, we are planning to have a freemium model, where the app is free to use but some features are locked and can be unlocked by paying a subscription fee.
-We will have a free version, in order to attract users and make them discover our app, but we will also have a premium version, with more features and less limitations.
+The free version will be used to attract users and make them discover our app and the premium version will offer more features and less limitations.
 
-We could also think of other revenue streams, like displaying ads in the app for the non premium version.
+We could also think of other revenue streams, like displaying ads in the non-premium version of the app.
 
-Some possible upgraded version :
-- Locked features such as flashcards, events in a group, schedule of study sessions could demand an 
-- Add more people in a group
-- More video call participants
-- More storage for resources
-- More customization options
+Some possible upgrades for the premium version :
+- New features such as flashcards, ability to organize events in a group and schedule study sessions 
+- Add more people in a group (limit at 10 for the free version)
+- More video call participants (limit at 10 for the free version)
+- More storage for resources 
+- More customization options (widgets, color themes, profile personalization)
 
