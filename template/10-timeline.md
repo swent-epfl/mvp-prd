@@ -31,6 +31,14 @@
 | Week 11 | | |
 | Week 12 | | |
 
+#### Milestone 4
+
+| **Sprint/Week Number** | **Objective** | **Outcomes** |
+
+| Week 13 | | |
+| Week 14 | | |
+
+
 *What’s the overall schedule you’re working towards?*
 
 *What resources are required?*
