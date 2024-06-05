@@ -21,3 +21,9 @@ Here are the functional requirements that we believe are necessary for the MVP t
 9. **Challenges**: Users get 3 challenges everyday. These are randomly picked from posts in their area. To complete these challenges, they have to travel to the post and open it. This gives the users a concrete mission that they can do every day.
 
 10. **Map Integration**: Users should be able to see all the nearby posts, all of their own posts and all their challenges on a map. It should be simple to navigate back and forth from the map to the other pages. It should also be possible to seamlessly open the Google maps app to navigate to any post. This allows the user to precisely see where each post is, and also to know where to go to complete challenges. 
+
+
+## Internal Architecture
+The different screen viewmodels will communicate with different repositories to optain the data they need. These repositories talk with the database and obtain the live data.
+
+![App architecture diagram](./assets/app_diagram.jpg)
