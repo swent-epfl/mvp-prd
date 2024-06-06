@@ -14,20 +14,24 @@ The app keeps personnal data about users such as birthdates used to filter the e
 
 ## Adoptions, Scalability and Availability
 
-Users should be able to add their friends throught QR code scanning at any time they meet with them.
-Users can use the app without providing payment information to be able to attend free events.
-The UX must be easy and intuitive for the user to choose it's privacy settings.
-Metrics should measure the individual usages of the app (chats, browsing events, hosting events) to determine any weak point and make advertising or imporvement accordingly.
+Users should be able to add their friends at any time they meet with them.
+The app must allow users to attend free events without requiring payment information.
+Clear and straightforward navigation is essential to ensure users can manage their privacy preferences effortlessly.
+The app should track metrics such as chat activity, event browsing, and event hosting to identify any weak points and areas for improvement.
+These metrics will help tailor advertising efforts and guide enhancements to the app.
 
-The app can scale globaly across the world but it is only useful within a certain locality. People won't travel 100km for just a weekend event.
-We should consider having a backend of our own to better address the locality of the app and optimize delay, and information exchange. A user in Switzerland doesn't care about the small events in Japan. As well as the app aim to build new friendship, the local behaviour is even more important.
+While the app can scale globally, its usefulness is primarily local. Users are unlikely to travel long distances for events.
+A dedicated backend infrastructure should be considered to optimize performance and responsiveness based on user location, ensuring relevant local event information. Locality is important as the app aim to help people build new friendship.
 
-We can except summer and holiday to be more busy. This is very dependant of the locality of the app. A certain region can have a peaks of traffic when it is holiday or days with good weather forecast.
-Weekly peaks will be on the weekend. People will massively use the app to geolocate themselves to attend their events. 
-The system must be reactive for anticipated high traffic during popular cultural and sporting event periods.
+Higher usage is expect during summer and holiday periods (considering regional variations).
+Weekly usage peaks are anticipated on weekends, with significant app activity as users geolocate to attend events.
+The system must be prepared to handle high traffic during major cultural and sporting events.
 
-As the app contains many features with concurrent interaction it must be designed to support all these incoming changes at the same time without big delays and errors.
-The app must be able to handle the cases were internet is unstable wihout data loss of data corruption
+The app must support concurrent interactions and multiple features without significant delays or errors.
+The system must be robust enough to handle unstable internet connections without data loss or corruption.
+
+
+
 
 
 
