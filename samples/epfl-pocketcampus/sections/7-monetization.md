@@ -8,6 +8,7 @@ Recognizing this developmental trajectory, **we plan to propose a one-year lock-
 
 The one-year lock-in period also provides a stable financial and operational framework for us to invest in the necessary resources, development, and support required to make PocketCampus a success. It offers a predictable revenue stream and a clear timeline for both development and return on investment, benefiting both PocketCampus and EPFL. Additionally, to incentivize EPFL to promote our app, we plan to offer attractive rates if the contract is made based on the total EPFL population instead of active users. This is aimed at creating an operational synergy that is beneficial to both EPFL and PocketCampus in the long run.
 
+
 At the core of our business
 
 1: En gros qui est notre client et ce que l'on pourrait faire 
