@@ -7,4 +7,3 @@ At the heart of Lasta is its user-friendly interface, which allows users to effo
 Community engagement is a key aspect of Lasta. The app features social tools that allow users to share their experiences and insights about various locations. This creates a rich, collective knowledge base that enhances the overall user experience and fosters a supportive network of like-minded outdoor enthusiasts. Users can also invite friends and chat via private messages to share activities, promoting social interaction and camaraderie within the community.
 
 The app is free for all users. It is aimed at regular sportsmen and women who are the primary persona for this app, along with occasional users. Perhaps later, other personas will be added as additional targets (e.g., sport events organisers).
-
