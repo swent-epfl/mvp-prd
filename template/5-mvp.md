@@ -12,40 +12,23 @@ The main users, as expected, will be students all across the world. Be it univer
 
 ## Key Features
 
-*Identify and prioritise the key features required.*
-
 The key features of the MVP consist of those listed below : 
 
 1. **Groups** : Allows to reunite your friends and share resources (images, links, pdfs, etc.) through different topics, includes a chat where members of the group can debate about questions and also an ability to put themselves as 'strong users' that have well understand a certain topic or exercise and are willing to help others.
 2. **Video Call** : A single video call for each group, allowing members to work together even if they are far away from each other. Picture-in-picture allows seamless integration for the phone's other activities. 
 3. **Calendar** : Personnalisable and linkable to Google Calendar, allows to easily keep track of deadlines and events through the year. Ability to upload the user's university academic calendar could be a nice addition.
-4. **Timers** : 
-
-*Justify the importance of each feature.*
-
-- Groups to offer a centralized place where students of the same course can share resources and use the chat to ask questions
-- Video Call to offer a more social side of studying
-- Calendar to keep track of revisions, deadlines, etc
-- Timers to improve work effectiveness
+4. **Map** : Allows to easily find your friends if you decided to meet up in person, can be toggled off anytime. 
+5. **Timers** : To improve time management, shared timer in groups so that everyone has the same periods of studying and breaks. 
+6. **Chats** : Different chats present throughout the app, general group chat, topic chats and private chat between users.
 
 ## Success Criteria
 
-*How will you evaluate the success of the MVP?*
-
-- Amount of users
-- User retention after launch
-- User flows to database for example
-
-*Metrics include user penetration, quality / satisfaction.*
-
-*If applicable, progress in discussions with ecosystem partners / investors / customers.*
+**User Retention** : Amount of users reached in the months following the launch. Amount of users remaining after a trial period of a few months.
+**User Satisfaction** : Use feedback surveys with small benefits to get user feedback and more information about the app satisfaction. 
+**Database Flow** : Use the database flow of chats sent, video calls created etc to have a better idea of the most popular features and what needs to be improved. 
 
 ## Features Outside the Scope
 
-*The MVP must be viable and minimal.*
-
-*Which features don’t belong in it.*
-
-*How should these be eventually integrated and in what sequence.*
-
-- Not a dating/make friends app
+**User profile cards** : Not very useful. There won't be any 'new encounters' in the groups since they are representations of friend groups, hence everyone already knows everyone. Could be a nice addition to see for example the common groups between the user and their friends for a later version of the MVP.
+**Dating app** : The goal of the app isn't to meet new people. It is to improve and allow better collaboration between existing friend groups. 
+**Ability to refer friends** : Not that important for the MVP but could be a good marketing scheme. Allow existing users to invite new users for a small benefit (such as ability to send emojis in video calls for example)
