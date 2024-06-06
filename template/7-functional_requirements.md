@@ -6,6 +6,5 @@
 
 *Include appropriate architectural diagrams.*
 
-
 *Describe key internal functionality.*
 
