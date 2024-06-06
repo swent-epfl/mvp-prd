@@ -1,12 +1,3 @@
 # The Value Proposition
 
-Lasta offers a compelling value proposition that addresses key aspects of usability, comprehensiveness, and relevance, tailored specifically for the Swiss outdoor sports community.
-
-- Easy to Communicate: Sport is deeply ingrained in European culture, and Lasta leverages this cultural affinity by offering a platform that is inherently social and intuitive. The app's purpose and benefits are easily articulated, making it straightforward to explain to potential users. Its social features encourage users to invite friends, thereby naturally expanding its user base through word-of-mouth. This organic growth model capitalizes on the communal nature of outdoor activities, where users are likely to share their experiences and recommendations with peers.
-
-- Defensible: Lasta stands out in the crowded market by integrating a wide array of features into a single, multi-functional app. While individual functionalities might exist in competing apps like Strava, OutdoorActive, and Alltrails, Lasta consolidates these features, providing users with a one-stop solution. This comprehensive approach includes activity discovery, personalized recommendations, offline accessibility, and social networking—all tailored to the specific needs of Swiss outdoor enthusiasts. Furthermore, by focusing on the Swiss market, Lasta offers precise and relevant data that global competitors might overlook, making it particularly valuable for local users.
-
-- Relevant: Switzerland is renowned for its active lifestyle, with a population that ranks among the most sport-oriented in the world. Lasta taps into this vibrant community, addressing the specific needs and preferences of Swiss outdoor sports enthusiasts. The app's localized content and features resonate deeply with this audience, ensuring high relevance and engagement. By catering to the unique demands of the Swiss market, Lasta is well-positioned to achieve widespread adoption and become an essential tool for the country’s numerous hiking, climbing and biking aficionados.
-
-In summary, Lasta's value proposition lies in its ease of communication, defensible multi-functional nature, and strong relevance to the Swiss market. By combining comprehensive features with a focus on local needs, Lasta is set to become the go-to app for outdoor sports enthusiasts in Switzerland, fostering a robust and engaged community.
-
+*Describe the value proposition and argue that it is:*
