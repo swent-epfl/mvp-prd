@@ -9,9 +9,9 @@ We use the Model View ViewModel (MVVM) architecture to ensure structured managem
 
 **Firebase communication** 
 
-We use Firebase Authentication to handle user authentication. The Firebase Core, Firebase Auth and Google Sign-In Flutter packages control the user authentication flow through a Google Sign-In intent on the login screen. Additionally, we plan to add additional OAuth providers, like Apple, to allow most of the users to choose one of the available options and easily authenticate.
+We use Firebase Authentication to handle user authentication. The Firebase Core, Firebase Auth and Google Sign-In Flutter packages control the user authentication flow through a Google Sign-In intent on the login screen. We plan to add additional OAuth providers, like Apple, to allow most of the users to choose one of the available options and easily authenticate.
 
-Storing and fetching the user interactions in the application are handled using the Firebase Core and Cloud Firestone Flutter packages.
+Storing and fetching the user interactions in the application are handled using the Firebase Core and Cloud Firestore Flutter packages.
 
 **User location processing** 
 
@@ -45,20 +45,17 @@ All application logic will be managed on the backend. The client will communicat
 
 This separation allows the logic to remain flexible and reduces the need for frequent app updates to fix bugs, as these can be addressed on the backend without modifying the client side. Additionally, this approach keeps the frontend lightweight and focused on optimizing the user experience.
 
-
 ### Database Interactions
 
 All interactions with the database will be managed through the backend. The frontend will not have direct access to the database; instead, it will obtain the necessary data by communicating with the backend API.
 
 This design choice is primarily for consistency and security reasons. By restricting database access to the backend, we ensure that we can control and predict the actions performed on the database at any given time. This level of control would not be possible if the client had direct access to the database, as multiple versions of the application could lead to inconsistent interactions with the database. This approach is further justified when considering potential adversarial behavior from the client, where it is crucial to prevent direct database access to maintain security.
 
-
 ### Listenable
 
 Some features of Proxima require the client to react to external events. For example, when a user is invited to join a group, the client needs to be notified of this event in real time. This will be accomplished through listenable Firestore documents.
 
 When a listenable logic is required, the cloud function will create a temporary document in a specific collection that the client will listen to. To maintain consistency with our *Database Interaction* policy, the client will only have read access to these documents, and any writes will be performed through backend API calls. This ensures that the client is promptly notified of relevant events while preserving the integrity and security of the backend.
-
 
 ### Framework
 
@@ -141,7 +138,7 @@ The deployment of the backend API is automatically managed by Firebase, which wi
 ## Test Plan
 
 **Continuous Integration :**
-The backend will be developed using a continuous integration approach with a minimum code coverage threshold of 90%. This ensures that the implemented code has been thoroughly tested.
+The backend will be developed using a continuous integration approach with a minimum code coverage threshold of 90%. This should help us to catch bugs early in the development process and provide confidence to developers when refactoring parts of the codebase.
 
 **Cost Tests :**
 For the implementation of new API functions, read/write cost tests will be performed under various conditions to ensure that the functions scale well in different environments. This will allow for better cost estimations and help avoid potential unexpected bills.

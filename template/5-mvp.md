@@ -3,12 +3,11 @@
 ## Personas and Scenarios
 
 #### Target users:
-- **Frequent Social Media Users:** Individuals who use social media platforms regularly to connect and share experiences.
+- **Social Media Users and Content Creators:** Individuals who use social media platforms regularly to connect and share experiences.
 - **Travelers:** Those who seek unique local experiences in different cities.
 - **Local Explorers:** Residents who want to discover hidden gems and interesting spots in their own city.
 
-#### Key Persona:
-Frequent Social Media Users are the primary target due to their high engagement levels and potential to drive content creation and interaction.
+**Key Persona:** Frequent social media users are the primary target due to their high engagement levels and potential to drive content creation and interaction.
 
 #### High-Level Scenarios:
 - **Discovering Local Posts:** Users explore and interact with posts within a 100-meter radius to discover new places.
@@ -33,18 +32,16 @@ Frequent Social Media Users are the primary target due to their high engagement 
 2. "As a local resident, I want to create local posts so that people are challenged to explore lesser-known areas of my city."
 
 #### Key Features:
-- **User Authentication:** Necessary for security and personalized user experiences.
-- **Post Creation and Location-Based Feed:** The core functionality of sharing and discovering places.
-- **Interaction Tools (Comments and Voting):** Enhances user interaction and engagement.
-- **Centauri Points and Challenges:** Motivate continued app usage by creating challenges with rewards in form of points
-- **Ranking System:** Encourages competition and engagement by displaying user rankings based on Centauri points.
-- **Map:** Allows users to navigate to post locations and to visualize nearby activities.
-- **User's posts and comments management:** Allows users to track and manage their activity.
-- **Media Support (Photos, GIFs, Videos):** Enhances post content and user engagement.
-- **Groups:** Facilitates community building and group exploration.
-- **Offline Mode:** Ensures usability even without internet access, improving user retention.
-
-
+- **User Authentication**: Necessary for security and personalized user experiences.
+- **Post Creation and Location-Based Feed**: The core functionality of sharing and discovering places.
+- **Interaction Tools** (Comments and Voting): Enhances user interaction and engagement.
+- **Centauri Points and Challenges**: Motivate continued app usage by creating challenges with rewards in form of points
+- **Ranking System**: Encourages competition and engagement by displaying user rankings based on Centauri points.
+- **Map**: Allows users to navigate to post locations and to visualize nearby activities.
+- **User's posts and comments management**: Allows users to track and manage their activity / virtual exposure on the application.
+- **Media Support** (Photos, GIFs, Videos): Enhances post content and user engagement.
+- **Groups**: Facilitates community building and group exploration.
+- **Offline Mode**: Ensures usability even without internet access, improving user retention.
 
 ## Success Criteria
 
@@ -53,6 +50,8 @@ Frequent Social Media Users are the primary target due to their high engagement 
 - **Engagement Metrics:** Daily active accounts, daily average interactions per user (creating post or comments, completing challenges).
 - **User Feedback:** Direct feedback and satisfaction surveys to gauge user experience.
 - **Partnerships and Investor Interest:** Progress in securing support and funding based on app traction and user growth.
+
+**Note**: key metrics are discussed in more details in the "User Analytics" section.
 
 #### Benchmarking:
 - **User Adoption:** Targeting 3,000 downloads within the first month.
@@ -81,10 +80,10 @@ For the MVP, the focus is on core functionalities that drive user engagement and
 ### Roadmap for features expansion
 
 The roadmap for Proxima includes the following key milestones:
-0. **MVP Development:** Focus on core features for initial launch.
+
+0. **MVP Development**: Focus on core features for initial launch.
 1. **Launch**: Release the app in Switzerland, with EPFL students as target users, to establish a user base and gather feedback.
 2. **Stability and Performance Improvements**: Address any issues identified post-launch and optimize the app for better performance.
-3. **User Growth and Engagement:** Focus on increasing user base and enhancing user interactions.
-4. **Feature Expansion:** Introduce additional features like heat maps, and nested comments.
-5. **Community Building:** Implement group features to foster community engagement and collaboration.
-6. **Localization and Global Expansion:** Expand to new regions to cater to a broader audience.
+3. **User Growth and Engagement**: Focus on increasing user base and enhancing user interactions.
+4. **Feature Expansion**: Introduce additional features like heat maps, and nested comments.
+5. **Community Building**: Implement group features to foster community engagement and collaboration.

@@ -6,8 +6,7 @@ Our business model for Proxima is mainly based on advertising for businesses of 
 
 Our location based content is also able to provide event organizers (such as festival organizers) time-limited event experiences for users within certain predefined areas. This is aimed to be beneficial to the three parties interacting. Our value proposition is to provide participant retention and event discovery through our heat map. We can engage the participants through challenges, point-earning and enlarged post reach during the event. This fosters application discovery and user loyalty.
 
-Proxima's business model is based on the density of users interacting in specific areas. We have to scale it according to how our user base grows in each region. We plan to launch at EPFL, and expand to new places progressively.
-
+Proxima's business model is based on the density of users interacting in specific areas. We have to scale it according to how our user base grows in each region. We plan to test launch at EPFL (like a mini-city) with local businesses, and expand to new places progressively.
 
 ## Expected operating Costs
 
@@ -26,4 +25,3 @@ We have made the following operating costs estimation, considering an initial la
 | OpenStreetMap Hosting | 200 CHF / month |
 | Firebase              | 150 CHF / month |
 | **TOTAL**             | 350 CHF / month |
-
