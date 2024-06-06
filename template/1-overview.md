@@ -12,3 +12,4 @@
 It is an app destined for swiss sportsmen and women as a whole-in-on to find activities, gather friends and track your performances.
 
 *Include a 3-sentence (max) elevator pitch.*
+
