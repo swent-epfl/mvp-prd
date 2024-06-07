@@ -8,8 +8,10 @@ The V1 PoC also included a step counter, allowing users to track their physical 
 
 Social features were also a significant part of the PoC. Users could add friends within the app and send messages, fostering a sense of community and making it easier to plan group activities.
 
-From the V1 PoC, we learned that the core functionalities were well designed: it it easy to find and save activities. The multilingual support is crucial, as it broadens the app's appeal. However, we also identified areas that are needing improvement: more personalized recommendations and advanced filtering options for example.
+From the V1 PoC, we learned that the core functionalities were well designed: it it easy to find and save activities. The multilingual support is crucial, as it broadens the app's appeal. However, we also identified areas that are needing improvement: more personalized recommendations and advanced filtering options for example. Furthermore, we noticed that the app lacks activities to display. This could be solved by merging our current activities database with other available alternative sources to increase the pool.
 
 To transition from the PoC to a Minimum Viable Product, several key enhancements are necessary. First, we need to refine the recommendation engine to provide more personalized and accurate suggestions based on user preferences and activity history. Improving the filtering capabilities will also be crucial, allowing users to narrow down activities more effectively.
 
-The social features need to be expanded to include more interactive elements, such as activity sharing, group event planning, and integration with broader social media platforms. By addressing these areas, we can bridge the gap from a promising PoC to a robust and widely-adopted MVP, ultimately fulfilling Lasta’s mission to revolutionize the outdoor sports community in Switzerland.
+The social features need to be expanded to include more interactive elements, such as group event planning and integration with broader social media platforms. By addressing these areas, we can bridge the gap from a promising PoC to a robust and widely-adopted MVP, ultimately fulfilling Lasta’s mission to revolutionize the outdoor sports community in Switzerland.
+
+Finally, we can add new sports aside from the already present three, to further increase the offer in terms of information and diversity of choice.
