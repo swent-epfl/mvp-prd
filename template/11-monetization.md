@@ -1,6 +1,11 @@
 # Business Model
 
-*Expected operating Costs*
+The foundation of our business model for Student Sphere is built on the understanding that EPFL administration is our primary customer, rather than the students. Our value proposition to the administration focuses on simplifying and centralizing access to student association-related information and activities. This integration not only enriches the campus experience for students but also enhances administrative efficiency by offering a single platform for communication and student involvement.
 
-*Revenue Streams*
+Developing Student Sphere as a comprehensive application necessitates a phased and iterative approach, adapting to the changing needs and usage patterns of the EPFL community. We anticipate that it will take several months to thoroughly understand and incorporate the diverse requirements of this vibrant user base into the app. This period is essential for identifying core features, refining existing functionalities, and ensuring the app aligns well with the diverse activities of student associations.
+
+Acknowledging this developmental path, we intend to propose a one-year lock-in contract with EPFL. This timeframe is intentionally selected to provide adequate time for the app to evolve and exhibit its full potential. Unlike apps that gain instant popularity, such as viral games, Student Sphere is expected to build momentum and user loyalty gradually. Throughout the year, we will work collaboratively with both the administration and the users to fine-tune the app, ensuring it meets and surpasses the EPFL community’s expectations. This strategy not only guarantees a comprehensive and efficient product but also establishes a lasting partnership with EPFL.
+
+The one-year lock-in period ensures a stable financial and operational foundation, enabling us to invest in the necessary resources, development, and support to make Student Sphere successful. It provides a predictable revenue stream and a clear timeline for both development and return on investment, benefiting both Student Sphere and EPFL. Furthermore, to encourage EPFL to support our app, we plan to offer favorable rates if the contract covers the entire EPFL population rather than just active users. This approach aims to create a beneficial synergy for both EPFL and Student Sphere over the long term.
+
 
