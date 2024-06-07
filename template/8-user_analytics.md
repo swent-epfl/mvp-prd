@@ -58,3 +58,4 @@ Here are some ideas of A/B testing we could implement for our app:
 - **UI elements**: This part will focus more on smaller UI elements, such as the navigation bar, the drawer menu, the settings button or even texts on the elements (headline, text size). We would like to verify that each icons/elements are understandable for the users.
 - **Tutorial**: We could also implement a tutorial for the app and determine how usefull it could be for a new user.
 - **Subscrition option**: We could also try different models for our financial option. For example we could have a subscription plan that unlock new features or another one that allows to create more groups/topics....
+- **Features relevance**: We could unlock only specific features and how does the user percieve it. Does it fell that something is missing. This could help us determing what are the necessary features. We could also perform other measurement and see what are the most used/relevant features.
