@@ -7,7 +7,9 @@ However, it will be too restrictive as we scale to accommodate hundreds or thous
 
  In addition to Firebase and Google Cloud's APIs, the app utilizes two other APIs for [*weather predictions*](https://openweathermap.org/api) and [*location auto-completion*](https://radar.com/product/api). These APIs offer free plans suitable for small-scale operations, but will not be sufficient for a rapidly growing application.
 
-Lasta's operating cost for external services will mostly depend on the number of active users, as these APIs charge based on the number of requests
+Lasta's operating cost for external services will mostly depend on the number of active users, as these APIs charge based on the number of requests.
+
+To implement a reliable notification system for users, a dedicated server is required to manage the requests. Until now, this feature has been self-hosted at a developer's home, but this is not a sustainable solution for the future. Renting a Virtual Private Server (VPS) would be a necessary and cost-effective alternative. Additionally, the same server could be utilized to host a website for the application, enhancing its visibility and accessibility for potential users. This would incur some additional expenses, such as acquiring a domain name, hiring a developer for the website, and covering the VPS rental costs. Fortunately, renting a VPS is relatively inexpensive and does not need significant scaling since notifications are not computation-intensive, and the website will mainly deliver static content.
 
 It will also be needed to allocate a budget for marketing expenses to build a sufficiently large user base. This will include internet advertisements, ads in sports shops, and mountain sports stations, as well as promotional offers to attract new users.
 
