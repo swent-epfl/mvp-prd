@@ -1,7 +1,5 @@
 # Analysis of the Situation
 
-There exists some products that offer similar features as our app, but none of them reunite them all inside one app. For example, Discord is a platform that allows users to create servers and channels to chat, share resources, and make video calls. However, Discord is not focused on studying and doesn't offer features like a calendar, to-do lists, timers, and a map to see where friends are located.
-
 There exists multiple of products that offer competing features to our app, such as :
 - Discord, as mentionned earlier, a platform that allows users to create servers and channels to chat, share resources, and make video calls.
 - Quizlet, allows to create flashcards to study and share them with friends

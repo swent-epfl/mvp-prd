@@ -1,13 +1,5 @@
 # History
 
-*Maximum 1 page*
-
-*Describe the V1 POC as planned by Sprint10.*
-
-*What did you learn?*
-
-*What is missing to bridge from PoC to MVP?*
-
 In our V1 Proof of concept, we implemented most of the features we planned to have in our MVP.
 We have :
 - the groups, topics and also the possibility to share resources and to create exercises.
