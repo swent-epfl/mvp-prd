@@ -1,1 +1,5 @@
 *egg-info/
+Lib/*
+Scripts/*
+*.pyc
+pyvenv.cfg
