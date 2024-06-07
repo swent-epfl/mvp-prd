@@ -50,12 +50,11 @@ However other critera are technically also relevant to look at such as
 
 *Include relevant A/B testing ideas.*
 
-A/B testing can be describe as [*"methodology for comparing two versions of a webpage or app against each other to determine which one performs better"*](https://www.optimizely.com/optimization-glossary/ab-testing/#:~:text=A%2FB%20testing%20(also%20known,determine%20which%20one%20performs%20better.)
+A/B testing can be describe as [*"methodology for comparing two versions of a webpage or app against each other to determine which one performs better"*](https://www.optimizely.com/optimization-glossary/ab-testing/#:~:text=A%2FB%20testing%20(also%20known,determine%20which%20one%20performs%20better.) The idea is thus to try different configuration and determine which one is the more efficient/understandable for the user.
 
 Here are some ideas of A/B testing we could implement for our app:
 
 - **App UI/UX architecture**: We will mostly focus on the screen adjencement, meaning how the screens are linked to each other and the global UI and UX flows. For example we would like to verify how easily a new user can archieve a goal by only looking at the UI (without any previous explanation).
-- **UI elements**: 
-
-
-- Test different UX user flows, displays and formatting to find the most user-friendly one
+- **UI elements**: This part will focus more on smaller UI elements, such as the navigation bar, the drawer menu, the settings button or even texts on the elements (headline, text size). We would like to verify that each icons/elements are understandable for the users.
+- **Tutorial**: We could also implement a tutorial for the app and determine how usefull it could be for a new user.
+- **Subscrition option**: We could also try different models for our financial option. For example we could have a subscription plan that unlock new features or another one that allows to create more groups/topics....
