@@ -31,6 +31,8 @@ individual hosting an event, which is why, even if EPFL would be our starting po
 Furthermore, Echo presents itself as an attractive tool to potential participants, because it removes
 the need to scrape their social media feed, their mailbox and the web just to find an enjoyable activity to participate in.
 
+Echo offers particular value to individuals looking to meet new people, make new friends and improve their social insertion.
+
 Echo is definitely relevant to the EPFL student population, students probably being the most frequent creators of events and the most frequent participants.
 Nonetheless, as long as anyone is free to create and share an event about anything, Echo will find its relevance even in the smallest population
 segments.
