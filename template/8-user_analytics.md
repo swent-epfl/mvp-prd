@@ -14,6 +14,8 @@ Different metrics could be used to assess how and how much is our data used by u
 
 - **Conversion rate**: Another aspect we could look at is the conservation rate, meaning how many user are actully using the app after having downloading.
 
+**User satisfaction and ratings**: Listening to the users is always important to keep them happy and impact the success of the app. Ratings are usually avaible on the downloading platforme and could be very usefull to know what aspects of the app satisfy or not the users.
+
 - **User retention**: This metric is particulary important for the survival of the app and expressed the lifetime value (LVT) of a single customer. This metric could be calculated as :  <br>
 LVT = Subscription * Gross Margin * (1/chrun) <br>
 Where Churn is the percentage of active customers that exit the subscription each month. Usually to have viable app, it is advise to have a LVT greater than 3 times the customer acquisitin cost. This metrix gloabally indicate us how well doest the app surviving knowing the cost of recruiting new users, the cost of them using the app and then leaving. For our app to be viable we should keep track on the number of user we still keep and knowing how much do it cost to keep them using the app. On another side, it could also be relevant to ask the user why do they leave/uninstall the app.
@@ -29,20 +31,31 @@ As seen in the course, a successful app should most likely be able to:
 - retain customers
 - monetize cusomers via a subscription
 
-By fullfilling this criteria we can ensure that the app keep its activate customers, while still beeing interesting and relevant enough to bring new customers.
+By fullfilling this criteria we can ensure that the app keep its activate customers, while still beeing interesting and relevant enough to bring new customers. Plus having the monetization ensure a gain for the developers. With all these criteria meet, the app could probably continue to survive. 
 
-
-
-- High user engagement and retention rates
+However other critera are technically also relevant to look at such as 
+- High user engagement
+- User satisfaction
 - Low crash rates and quick resolution of identified issues
 - High usage of the key features
 
 *What is the analysis plan (link to data collection)?*
 
-- Implement Google Analytics for behavioral tracking and Firebase Crashlytics for stability monitoring
-- Anonymize data to comply with privacy standards
+- **Implement Google Analytics**: This could help us to track user behaviors, such as app frequency usage, session durations, feature usages and others.
+- **Implement Firebase Crashlytics**: This would help us understanding the origin of crashes in our app or potential instabilities.
+
+- **Add the app on a downloading plateform**: A primordial step, we still need to complete is to add our app on a downloading plateform. This will also us to keep easily track of the number of downloads and the ratings.
+
+- **Manage the cost and gain**: We should also implement a system to take account of the gain and cost of our app more easily.
 
 *Include relevant A/B testing ideas.*
 
-- Test different UX user flows, displays and formatting to find the most user-friendly one
+A/B testing can be describe as [*"methodology for comparing two versions of a webpage or app against each other to determine which one performs better"*](https://www.optimizely.com/optimization-glossary/ab-testing/#:~:text=A%2FB%20testing%20(also%20known,determine%20which%20one%20performs%20better.)
 
+Here are some ideas of A/B testing we could implement for our app:
+
+- **App UI/UX architecture**: We will mostly focus on the screen adjencement, meaning how the screens are linked to each other and the global UI and UX flows. For example we would like to verify how easily a new user can archieve a goal by only looking at the UI (without any previous explanation).
+- **UI elements**: 
+
+
+- Test different UX user flows, displays and formatting to find the most user-friendly one
