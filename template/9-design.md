@@ -37,12 +37,47 @@ Finally, the UI will adjust to indicate when the app is in offline mode, such as
 ## Authentication 
 
 ### Google Authentication
+The application user authentication is handled through both Google's Authentication service and traditional email and password login. This dual integration is essential for our MVP as it provides a secure and seamless login experience for users, catering to different user preferences. 
+
+By utilizing Google's Authentication, we can quickly and reliably obtain crucial user information, including email, name, and profile picture. This approach not only simplifies the registration and login process but also enhances the user experience by enabling personalized features and interactions within the app.
+
+The email and password option ensures that users who prefer traditional login methods are also accommodated.  
+
+Furthermore, care must be taken to avoid any potential leak of user's private information, even in the event of a data breach. Robust security measures will be implemented to protect all user data, regardless of the authentication method used.
 
 #### Frontend (Android Application)
 
+- Google authentication: users will be able to log in with a single tap using their Google account. The frontend will display Google's standard login button, which, when clicked, will initiate the OAuth flow to authenticate the user.
+
+- For email and password authentication: users will have the option to create an account or log in using their email address and a secure password. The frontend will feature forms for users to enter their email and password, with additional options for password recovery and account creation. These forms will be designed to ensure ease of use and security, including input validation and feedback messages.
+
+
+
 #### Backend (Server Application)
 
+For Google Authentication, the backend will handle the OAuth 2.0 flow, verifying the authentication tokens received from the frontend. This process involves:
+
+1. Token Verification: The backend will verify the integrity and validity of the Google ID token using Google's public keys.
+2. Database Management: The backend will check if the user already exists in the database. If not, it will create a new user record with the retrieved information. 
+3. User Information Retrieval: Once verified, the backend will extract user information such as email, name, profile picture and others crucial information from the either the token or the database.
+
+For email and password authentication, the backend will handle user registration, login, and password management:
+
+1. User Registration: When a user registers, the backend will:
+    - Validate the email format and password strength.
+    - Hash the password using a secure hashing algorithm.
+    - Store the user details in the database, ensuring the hashed password is saved securely.
+2. User Login: When a user logs in, the backend will:
+    - Retrieve the user record based on the email from the database.
+    - Compare the hashed password with the stored hash.
+    - Generate and return a secure session token if authentication is successful.
+    - Retrieve all user's necessary information from the database.
+3. Password Management: For password recovery and updates, the backend will:
+    - Implement secure processes for password reset requests, including email verification and token expiration.
+    - Allow users to update their passwords, ensuring the new password is hashed and stored securely.
+
 #### Security Considerations
+For Google Authentication, the OAuth tokens will be securely managed, and sensitive user data will be encrypted. For email and password login, passwords will be hashed and stored securely. Input validation and protection against common security threats, such as SQL injection and cross-site scripting (XSS), will be enforced.
 
 ## Backend
 
