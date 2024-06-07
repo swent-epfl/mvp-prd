@@ -22,32 +22,22 @@ To the event creators, we offer:
 
 - A platform to centralize all their hosting related needs: ticketing, advertising, real-time communication with participants.
 
-Most associations at EPFL are familiar with the struggles of hosting events, such as finding participants, deal with communication and
+Most associations at EPFL are familiar with the struggles of hosting events, such as finding participants or dealing with communication and
 advertising.
 Echo offers a clear benefit to them because it provides direct support in these struggles.
-Furthermore, there is nothing specific to EPFL about these struggles, so we can safely affirm that this benefits apply to any association or
+Furthermore, there is nothing specific to EPFL about these pain points, so we can safely affirm that this benefits apply to any association or
 individual hosting an event, which is why, even if EPFL would be our starting point, the value we provide supercedes any geographical boundary.
 
 Furthermore, Echo presents itself as an attractive tool to potential participants, because it removes
 the need to scrape their social media feed, their mailbox and the web just to find an enjoyable activity to participate in.
 
-Echo is definitely relevant to the student population, students probably being the most frequent creators of events and the most frequent participants.
-Nonetheless, given that anyone is free to create and share an event about anything, Echo will find its relevance even in the most niche population
+Echo is definitely relevant to the EPFL student population, students probably being the most frequent creators of events and the most frequent participants.
+Nonetheless, as long as anyone is free to create and share an event about anything, Echo will find its relevance even in the smallest population
 segments.
 
-Fundamentally, Echo provides a variety of services to both participants and organizers, and a number of such services shall be hidden behind a paywall, or
-include a small fee (e.g. for ticketing).
+At its core, Echo provides a wide array of services to both participants and organizers, and a number of such services will include a small fee (e.g. for ticketing).
 
-Finally, the nature of the app makes it extremely easy to collect advertising fees, or event to strike deals with companies who wish to promote their events.
+Finally, the nature of the app makes it particularly easy to collect advertising fees, or even to strike deals with companies who wish to promote their events.
 
 However, Echo must ensure that said monetization doesn't interfere in any significant way with customer acquisition or with the usability of the app.
-
-
-*Describe the value proposition and argue that it is:*
-
-*1. Easy to communicate*
-
-*2. Defensible*
-
-*3. Relevant*
 
