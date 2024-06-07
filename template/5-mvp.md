@@ -45,7 +45,7 @@ The main aim of Echo is to bring EPFL students together. That's why our applicat
 
 ### Event Creation
 
-To assess the success of Echo, we will be looking at the number of events officially held. We estimate that an event brings together an average of 10 people. Our application will be a success if we manage to organise at least 1 event per week for every 100 students. So, for a first-year computer science class of 600 students, at least 6 events should be organised within this class using our application. 
+To assess the success of Echo, we will be looking at the number of events officially held. We estimate that an event brings together an average of 10 people. Our application will be a success if we manage to organise at least 1 event per week for every 100 students. So, for a first-year computer science class of 600 students, at least 6 events should be organised within this class using our application. We will also look at the number of people attending the event per person registered as a participant. We should achieve an attendance rate of 80%.
 
 ### User Adoption & Engagement
 
@@ -57,6 +57,8 @@ To assess the success of Echo, we will be looking at the number of events offici
 
 * We hope to achieve a score of 4 stars out of 5 in the Play Store ratings. We will be regularly monitoring feedback to identify recurring comments about our application, and adapting our approach accordingly.
 * A survey will be carried out at the end of each month to respond to requests from users who would like to add new categories, and to ensure that each of them has at least one event available per week. This will enable us to assess demand and, why not, try to improve the visibility of certain activities that are struggling to develop (special events organised by the application).
+* A survey in order to know the user experience with the app so far and if they would recommend it to their peers or if they like the application enough to continue using it.
+Maybe include like time to time popups like we have on certain applications which ask the user for feedback by rating the app in order to know user feeling about the same.
 
 ### Association Implication
 
@@ -67,5 +69,5 @@ To assess the success of Echo, we will be looking at the number of events offici
 
 * Exclusion of AI to recommend events - One of the things we wanted to do for our application was to introduce users to new activities using a recommendation algorithm. Based on our users' habits, we could train an AI to come up with a viable model. This feature is out of scope because we don't currently have any users, and we haven't found any data accessible online of sufficiently good quality to have a good model. But it's still worth keeping aside in case we have the necessary resources.
 * Exclusion of a multi-tenant Saas - What we're doing with EPFL could very well be replicated for every other school, company or region. Creating a more universal application, while remaining customisable for each environment, is a step we haven't yet explored. To begin with, it was simpler to focus on a structure that we knew well, the EPFL. The advantage of making it a multi-tenant SaaS is that it allows users to get used to using a single application regardless of the environment in which they find themselves. In this way, Echo could become for events what What's app is for communication.
-* Exclusion of a degree of trust - Currently, all users can create and join events as they see fit. We're still not happy with this solution because it gives too many opportunities for malicious people to carry out activities that go against the ethical line of our application. We had envisaged assigning a level of trust to each user, not allowing them to organise events until 3 months after downloading the application. This right could be withdrawn in the case of abuse. However, our application cannot afford at the outset to refuse to organise events as a precaution, given that we do not yet have any users. We'll be moderating the application manually to start with.
+* Exclusion of a tiered trust system - We currently allow all users to create and join events. While this fosters an open environment, it also presents potential risks of misuse. To address this, we envision a tiered trust system. New users would gain event creation privileges after a period of responsible use (e.g., 3 months). We understand this may not be feasible initially with a limited user base. Therefore, we'll be implementing manual moderation to ensure a safe and positive experience for all.
 
