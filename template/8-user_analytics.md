@@ -18,40 +18,40 @@ Where Churn is the percentage of active customers that exit the subscription eac
 
 - **Customer acquisition cost (CAC)** : As mentionned before, the CAC can be an interesting metric to use as it regroups the internal cost (marketing, engineers, support costs) and the amount of customers acquired. It allows to have an idea of how much money is spent per new customer acquired.To have a viable app, it is advised to keep this CAC lower than the lifetime value (LVT).
 
-
 ## Success Criterias
-There aren't juste one success criteria but multiple componenent of it.
 
-As seen in the course, a successful app should most likely be able to:
+There aren't juste one success criteria but multiple components of it.
+
+As seen in the course, a successful app should preferably be able to:
 - acquire customers
 - retain customers
-- monetize cusomers via a subscription
+- monetize customers via subscriptions
 
-By fullfilling this criteria we can ensure that the app keep its activate customers, while still beeing interesting and relevant enough to bring new customers. Plus having the monetization ensure a gain for the developers. With all these criteria meet, the app could probably continue to survive. 
+By fulfilling these criterias, we can ensure that the app keeps its activate customers, while still being interesting and relevant enough to bring new customers. In addition, having the monetization ensures an income for the development team. With all these criterias met, the app could probably continue to survive for a long time since students will always exist. 
 
-However other critera are technically also relevant to look at such as 
+However, other criteras are technically also relevant to look at such as :
 - High user engagement
 - User satisfaction
 - Low crash rates and quick resolution of identified issues
 - High usage of the key features
 
-*What is the analysis plan (link to data collection)?*
+## Analysis Plan
 
 - **Implement Google Analytics**: This could help us to track user behaviors, such as app frequency usage, session durations, feature usages and others.
-- **Implement Firebase Crashlytics**: This would help us understanding the origin of crashes in our app or potential instabilities.
+- **Implement Firebase Crashlytics**: This would help us understand the origin of crashes in our app or potential instabilities.
 
-- **Add the app on a downloading plateform**: A primordial step, we still need to complete is to add our app on a downloading plateform. This will also us to keep easily track of the number of downloads and the ratings.
+- **Add the app on a downloading plateform**: A primordial step we still need to complete is to add our app on a downloading plateform. This will also allow us to easily keep track of the number of downloads and the ratings.
 
 - **Manage the cost and gain**: We should also implement a system to take account of the gain and cost of our app more easily.
 
-*Include relevant A/B testing ideas.*
+## Relevant A/B testing
 
-A/B testing can be describe as [*"methodology for comparing two versions of a webpage or app against each other to determine which one performs better"*](https://www.optimizely.com/optimization-glossary/ab-testing/#:~:text=A%2FB%20testing%20(also%20known,determine%20which%20one%20performs%20better.) The idea is thus to try different configuration and determine which one is the more efficient/understandable for the user.
+A/B testing can be described as [*"methodology for comparing two versions of a webpage or app against each other to determine which one performs better"*](https://www.optimizely.com/optimization-glossary/ab-testing/#:~:text=A%2FB%20testing%20(also%20known,determine%20which%20one%20performs%20better.)) The idea is thus to try different configurations and determine which one is the most efficient/understandable for the user.
 
 Here are some ideas of A/B testing we could implement for our app:
 
-- **App UI/UX architecture**: We will mostly focus on the screen adjencement, meaning how the screens are linked to each other and the global UI and UX flows. For example we would like to verify how easily a new user can archieve a goal by only looking at the UI (without any previous explanation).
-- **UI elements**: This part will focus more on smaller UI elements, such as the navigation bar, the drawer menu, the settings button or even texts on the elements (headline, text size). We would like to verify that each icons/elements are understandable for the users.
-- **Tutorial**: We could also implement a tutorial for the app and determine how usefull it could be for a new user.
-- **Subscrition option**: We could also try different models for our financial option. For example we could have a subscription plan that unlock new features or another one that allows to create more groups/topics....
-- **Features relevance**: We could unlock only specific features and how does the user percieve it. Does it fell that something is missing. This could help us determing what are the necessary features. We could also perform other measurement and see what are the most used/relevant features.
+- **App UI/UX architecture**: We will mostly focus on the screen adjustment, how the screens are linked to each other and the global UI and UX flows. For example, we would like to verify how easily a new user can achieve a goal by only looking at the UI (without any previous explanation).
+- **UI elements**: This part will focus more on smaller UI elements, such as the navigation bars, the drawer menus, the settings buttons or even texts on the elements (headline, text size). We would like to verify that each icon/element is understandable and easy to use for the users.
+- **Tutorial**: We could also implement a tutorial for the app and determine how useful it could be for a new user.
+- **Subscription option**: We could also try different models for our financial option. For example, we could have a subscription plan that unlocks new features or another one that allows to create more groups/topics....
+- **Features relevance**: We could unlock only specific features and see how the users percieve this change. Does it feel like something is missing ? Is it harder to navigate in the app ? This could help us determine what are the necessary features and which one could be locked behind a subscription plan. We could also perform other measurements and see what are the most used/relevant features.
