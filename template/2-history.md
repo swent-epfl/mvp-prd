@@ -8,3 +8,6 @@
 
 *What is missing to bridge from PoC to MVP?*
 
+* Basic features such as joining and creating events.
+
+* Missing: lacking features which enable users to communicate amongst themselves.
