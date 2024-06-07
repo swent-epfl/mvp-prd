@@ -71,6 +71,16 @@ in-memory cache with *"one-hit-wonder"* itineraries, for example.
 
 ## Security Considerations
 
+### Authentification
+
+The app utilizes Google as its primary authentication provider to streamline the login process and enhance security. This integration allows users to sign in using their existing Google accounts, which not only simplifies the authentication process but also leverages Google's robust security measures including OAuth 2.0 protocol, secure access tokens and token handling. This also means that, by delegating authentification to Google, we minimize the amount of personnal data handled directly by our app.
+
+### Personnal Data
+
+- Location tracking: The app accesses user locations data strictly based on explicit user consent. Users are prompted to grant permission for location tracking when the app starts. The user's location is not stored and all information related to the user's position is discarded when the app closes or when the session ends. User location data are strictly used for app functionality during active session and are not shared with third parties.
+
+- Itinerary data: By defaults, created itineraries can be shared publicly, allowing other users to view these itineraries as part of the app's social features. However, users have the option to set their itineraries to "private." When this option is selected, the itinerary is not visible to other users and is kept confidential. Users can also delete their itineraries at any time. All itineraries are securely stored on Firebase, a cloud service provider with robust security measures. It ensures data integrity and availability.
+
 ## Infrastructure and Deployment
 
 *How is the application developed, tested and deployed?*
