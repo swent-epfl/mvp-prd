@@ -7,11 +7,8 @@ However, it will be too restrictive as we scale to accommodate hundreds or thous
 
  In addition to Firebase and Google Cloud's APIs, the app utilizes two other APIs for [*weather predictions*](https://openweathermap.org/api) and [*location auto-completion*](https://radar.com/product/api). These APIs offer free plans suitable for small-scale operations, but will not be sufficient for a rapidly growing application.
 
-Lasta's operating cost for external services will mostly depend on the number of active users, as these APIs charge costs based on the number of requests
+Lasta's operating cost for external services will mostly depend on the number of active users, as these APIs charge based on the number of requests
 
 It will also be needed to allocate a budget for marketing expenses to build a sufficiently large user base. This will include internet advertisements, ads in sports shops, and mountain sports stations, as well as promotional offers to attract new users.
 
-Ongoing costs regarding the app's code will include maintenance and development. Regular maintenance is essential to ensure that the app remains functional, secure, and up-to-date with the latest features, and developers are also needed to continuously improve the app, add new features, and handle user feedback. 
-
-
-
+Ongoing costs related the app's code will include maintenance and development. Regular maintenance is essential to ensure that the app remains functional, secure, and up-to-date with the latest features. Additionally, developers are needed to continuously improve the app, add new features, and handle user feedback.
