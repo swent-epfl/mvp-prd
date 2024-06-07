@@ -77,9 +77,9 @@ The app utilizes Google as its primary authentication provider to streamline the
 
 ### Personnal Data
 
-- Location tracking: The app accesses user locations data strictly based on explicit user consent. Users are prompted to grant permission for location tracking when the app starts. The user's location is not stored and all information related to the user's position is discarded when the app closes or when the session ends. User location data are strictly used for app functionality during active session and are not shared with third parties.
+- **Location tracking**: The app accesses user locations data strictly based on explicit user consent. Users are prompted to grant permission for location tracking when the app starts. The user's location is not stored and all information related to the user's position is discarded when the app closes or when the session ends. User location data are strictly used for app functionality during active session and are not shared with third parties.
 
-- Itinerary data: By defaults, created itineraries can be shared publicly, allowing other users to view these itineraries as part of the app's social features. However, users have the option to set their itineraries to "private." When this option is selected, the itinerary is not visible to other users and is kept confidential. Users can also delete their itineraries at any time. All itineraries are securely stored on Firebase, a cloud service provider with robust security measures. It ensures data integrity and availability.
+- **Itinerary data**: By defaults, created itineraries can be shared publicly, allowing other users to view these itineraries as part of the app's social features. However, users have the option to set their itineraries to "private." When this option is selected, the itinerary is not visible to other users and is kept confidential. Users can also delete their itineraries at any time. All itineraries are securely stored on Firebase, a cloud service provider with robust security measures. It ensures data integrity and availability.
 
 ## Infrastructure and Deployment
 
@@ -89,7 +89,29 @@ The app utilizes Google as its primary authentication provider to streamline the
 
 ## Test Plan
 
-*How is the application developed, tested and deployed?*
+### Plugin Tests
 
-*Any special infrastructure requirements.*
+Given the dynamic nature of our itinerary planner app, which features a variety of user-driven customizations, it is critical to ensure that each component or plugin functions seamlessly across different scenarios. Testing will involve:
+
+- **Frontend Rendering**: Ensuring consistent and accurate rendering of the user interface as users switch between different views and functionalities like map integration, itinerary creation, and social sharing.
+
+- **Component Compatibility**: Verifying that all plugins work in harmony without conflicts, maintaining app stability and user experience.
+
+### API Integration Tests
+
+Our app relies on third-party services for functionalities like Google authentication and map services. Regular integration tests are essential to:
+
+- **Service Connectivity**: Routinely check the connectivity and response from these APIs to ensure that authentication flows and map functionalities are always operational.
+
+- **Change Monitoring**: Implement monitoring tools to detect changes or deprecations in third-party services, allowing us to be proactive in addressing potential disruptions.
+
+### Performance Testing
+
+Considering the app’s social sharing and real-time location features, performance under load is critical. Testing in this area will include:
+
+- **Traffic Simulation**: Stress test the app by simulating peak usage scenarios, such as during holiday planning periods when user activity is at its highest.
+
+- **Concurrent Usage**: Ensure the system can handle a high number of concurrent users creating, updating, and sharing itineraries without performance degradation.
+
+- **Latency Measurements**: Focus on critical operations like loading itineraries and updating user locations to keep a smooth user experience. Unfortunately, the duration of operations dependent on location can vary significantly due to several factors, such as network connectivity and traffic conditions.
 
