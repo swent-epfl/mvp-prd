@@ -2,16 +2,13 @@
 
 
 ## Expected operating cost
-Most of the backend of the application is managed via services proposed by [Google's Firebase][1] and various Google Cloud APIs which operates under a "Pay as you go" pricing model. During the developpment period, the free solution was enough to test and developp our features, but will be way too restrictive for hundreds or thousands of active users.
+Most of the backend of the application is managed via services proposed by <ins>[Google's Firebase](https://firebase.google.com/)</ins> and various Google Cloud APIs which operates under a "Pay as you go" pricing model. During the developpment period, the free solution was enough to test and developp our features, but will be way too restrictive for hundreds or thousands of active users.
 
- The app is also using two other APIs for [weather predictions][2] and [location auto-completion][2] that offer free plans for small scale business, but might not be enough for a thriving application.
+ The app is also using two other APIs for [weather predictions](https://openweathermap.org/api) and [location auto-completion](https://radar.com/product/api) that offer free plans for small scale business, but might not be enough for a thriving application.
 
-Lasta's operating cost, usging the [Firebase's pricesheet][4], 
+Lasta's operating cost, usging the [Firebase's pricesheet](https://firebase.google.com/pricing), 
 
-[1]: <https://firebase.google.com/>
-[2]: <https://openweathermap.org/api>
-[3]: <https://radar.com/product/api>
-[3]: <https://firebase.google.com/pricing>
+
 
 ## Revenue Streams
 
