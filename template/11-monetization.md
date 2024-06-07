@@ -8,11 +8,10 @@ Most of the backend of the application is managed via services proposed by [*Goo
 
 Lasta's operating cost will therefore entirely depend on the number of active users since all these APIs have costs directly linked to the number of requests. Since we do not know the exact number of active users the app is going to get, it is hard to predict the cost per month. It is important to keep in mind that all the services used are extremly scalable and the app will therefore hardly be limited in term of performance.
 
-Let's say we achieve to get 15'000 active monthly users
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+You will find bellow a table with the expected operating costs according to the number of active users.
+| **Number of active users**    | Cost / month |
+| ---------------------------- | ----- |
+| <=10K (only the weather API would need paiement)                         | 15.-  |
+|                              | 0.5$  |
 
 
