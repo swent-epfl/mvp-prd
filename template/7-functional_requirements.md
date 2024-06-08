@@ -1,46 +1,60 @@
 # Functional Requirements
 
+Key features of the MVP include:
+
+- User management:
+    - Account creation: users can register an account as pet owners looking to find groomers for their pets, or as groomers looking to find customers. This will require an authentication management system which will be delegated to third party providers.
+    - User profile management: users can edit their profile information. For pet owners, this will include information about their pets, which will allow the application to find groomers matching their needs more easily. For groomers, this will include public information about the services they provide, which will allow them to reach potential customers more easily. Storing all of this data will be require a database management system.
+- Groomer discovery:
+    - Using data provided by the groomers and pet owners, the application will display a list of groomers matching certain criteria, making it easy for pet owners to find groomers for their pets. This will notably make use of geographical data, allowing pet owners to find groomers in their area.
+- Appointment booking:
+    - Groomers will be able to open reservation slots using a built-in booking system. Pet owners will then be able to book appointments with groomers. This will notably allow groomers to easily manage their schedule.
+    - Calendar integration: the application will integrate the booking system to the calendar, allowing both groomers and pet owners to 
+
+# Functional Requirements
+
 ## Key Features
 
 #### User Authentication and Profile Management
 
-Sign in through Firebase Authentication (Google Sign-In).
-Create and manage user profiles, including personal information and preferences.
+- Account creation: users can register an account as pet owners looking to find groomers for their pets, or as groomers looking to find customers. 
+- User profile management: users can edit their profile information. For pet owners, this will include personal information and preferences which will allow the application to find groomers matching their needs more easily. For groomers, this will include public information about the services they provide, which will allow them to reach potential customers more easily.
 
 #### Groomer Discovery and Detailed Profiles
 
-Find nearby groomers using location data.
-View detailed groomer profiles including services offered, reviews, and work portfolio.
+- Using data provided by the groomers and pet owners, the application will display a list of groomers matching certain criteria, making it easy for pet owners to find groomers for their pets. This will notably make use of geographical data, allowing pet owners to find groomers in their area.
+- Users will be able to view detailed groomer profiles including offered services, reviews, and work portfolio.
 
 #### Appointment Scheduling
 
-Schedule grooming appointments in real-time.
-Manage appointment availability and receive reminders.
+- Groomers will be able to open reservation slots using a built-in booking system. Pet owners will then be able to book appointments with groomers. This will notably allow groomers to easily manage their schedule.
+- Calendar integration: the application will integrate the booking system to the calendar, allowing both groomers and pet owners to manage their reservations seamlessly with their other schedule constraints.
+- Users will also have the ability to activate reminders and notifications about upcoming appointments
 
 #### In-App Messaging System
 
-Communicate directly with groomers.
-Send and receive messages within the app.
+- This will allow pet owners to communicate directly with groomers.
+- The messages will be sent and received within the app.
 
 #### Secure Payment System
 
-Process payments securely through integrated payment gateways.
-Manage wallet and transaction history.
+- Pet owners will be able to pay groomers directly through the app
+- Users will be able to manage their wallet and view their transaction history.
 
 #### Pet Profiles
 
-Create and manage profiles for multiple pets.
-Store pet-specific information and grooming history.
+- Pet owners can create and manage profiles for multiple pets.
+- Pet owners can store pet-specific information and grooming history.
 
 #### Reviews and Ratings
 
-Rate and review groomers after each appointment.
-View reviews from other users to make informed decisions.
+- Pet owners can rate and review groomers after each appointment.
+- Pet owners can view reviews from other users to make informed decisions.
 
 #### Map Integration
 
-Display groomer locations.
-Provide directions and navigation to the grooming location.
+- The application can display groomer locations.
+- It can provide directions and navigation to the grooming location.
 
 ## PetPamper's Architectural Diagram
 
@@ -52,13 +66,13 @@ The architectural diagram outlines the main components of the PetPamper applicat
 
 #### Authentication and Authorization
 
-Use Firebase Authentication for secure user sign-in and management.
+Use Firebase Authentication and third-party OAuth2 providers for secure user sign-in and management.
 Handle user sessions and maintain authentication state.
 
 #### Data Management
 
-Store user, groomer, pet profiles, and appointment data in Firebase.
-Use Firebase Firestore for real-time data synchronization and updates.
+Store user, groomer, pet profiles, and appointment data using Cloud Firestore.
+Use Firestore for real-time data synchronization and updates.
 
 #### Groomer Discovery
 
@@ -69,6 +83,7 @@ Query groomer data based on user location and preferences.
 
 Implement a real-time booking system to manage appointments.
 Sync appointment data between users and groomers.
+Integrate with Google Calendar.
 
 #### Messaging System
 
@@ -77,7 +92,7 @@ Handle message storage and retrieval securely.
 
 #### Payment Processing
 
-Integrate payment gateways to handle transactions.
+Integrate payment gateways to handle transactions, such as Stripe or PayPal.
 Securely manage user wallet and transaction history.
 
 #### Review and Rating System
@@ -93,5 +108,4 @@ Implement geocoding to convert addresses into geographic coordinates.
 #### Geocoding and Location Services
 Integrate Nominatim SDK for converting addresses into geographic coordinates.
 Use Nominatim for additional location services, such as reverse geocoding to find addresses based on coordinates
-
 

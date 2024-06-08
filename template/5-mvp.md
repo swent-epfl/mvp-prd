@@ -28,11 +28,6 @@ Share: After a successful grooming session, Emma shares her positive experience 
 
 ## User Stories and Key Features
 
-*User stories about how various personas will use the product in context.*
-
-*Identify and prioritise the key features required.*
-
-*Justify the importance of each feature.*
 
 ### User Stories - Primary Persona, The busy pet owner:
 
