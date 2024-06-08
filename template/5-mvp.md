@@ -2,12 +2,6 @@
 
 ## Personas and Scenarios
 
-*Who are the target personas for this product?*
-
-*Which is the key persona?*
-
-*High-level scenarios to adopt, use and share the product.*
-
 ## Target Personas for PetPamper:
 
 ### Primary Persona - The busy pet owner:

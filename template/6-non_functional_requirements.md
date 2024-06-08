@@ -2,12 +2,6 @@
 
 ## Security, privacy, and data retention policies
 
-*Which are the applicable laws and regulations?*
-
-*What are your internal policies?*
-
-*Which privacy features do you need from the phone?*
-
 The application's security critical components include the authentication and payment systems. Authentication will be delegated to third party authentication providers, and the payment will also be delegated to third-party payment gateways such as PayPal or Google Pay.
 
 PetPamper stores Personal Identifiable Information, and is therefore subject to privacy and data protection regulation laws. However, there is no further processing of this data, and data subjects can request for their data to be deleted at any time.

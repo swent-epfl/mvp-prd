@@ -2,11 +2,6 @@
 
 ## Frontend
 
-*List the key libraries, languages, components used by the MVP.*
-
-
-*If applicable, describe essential screens.*
-
 Frontend
 Implementation Framework:
 
