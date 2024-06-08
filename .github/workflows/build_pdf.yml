@@ -1,9 +1,5 @@
 name: Build PDF from Markdown
 
-on:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
