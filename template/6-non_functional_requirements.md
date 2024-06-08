@@ -42,10 +42,6 @@ Push Notifications: Users may allow the application to send them push notificati
 
 ## Adoptions, Scalability and Availability
 
-*What kind of traffic patterns do you expect to see?*
-
-*Are there known periods of bursty traffic that the MVP must be designed to support?*
-
 ### Driving Adoption
 
 To drive adoption, the application should focus on ease of use for both users and groomers. Early adoption is crucial as one of the main value propositions of the app is to connect pet owners to local groomers. Key strategies include:
