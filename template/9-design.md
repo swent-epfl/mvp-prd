@@ -55,17 +55,9 @@ Chat to discuss with groomers
 
 ## Backend
 
-*Decompose the MVP into functional blocks.*
 
 ## Data Model
 
-*What data are you collecting / managing?*
-
-*How is it organised?*
-
-*Where is it stored?*
-
-*How is it shared/copied/cached?*
 
 Data Model for PetPamper
 What Data Are You Collecting / Managing?
@@ -117,20 +109,8 @@ Secure Storage: Sensitive data such as authentication tokens are securely stored
 This clear organization and management of data ensure that PetPamper is robust, scalable, and secure, providing a seamless experience for users.
 
 
-## Security Considerations
 
-## Infrastructure and Deployment
-
-*How is the application developed, tested and deployed?*
-
-*Any special infrastructure requirements.*
-
-## Test Plan
-
-*How is the application developed, tested and deployed?*
-
-*Any special infrastructure requirements.*
-
+## Test Plan and deployment
 
 
 Development Process:
