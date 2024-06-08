@@ -36,7 +36,7 @@ Home Screen:
 
 Dashboard displaying available pet groomers
 Search functionality to find groomers by location or specialty
-Groomer Profile Screen:
+Groomer Profile Screen 1:
 
 Detailed profile of each groomer
 Services offered, pricing, reviews, and booking options
