@@ -1,13 +1,5 @@
 # Overview
 
-*Maximum: 2 pages*
-
-*What is this project about?*
-
-*Describe succinctly and precisely its purpose.*
-
-*Include a 3-sentence (max) elevator pitch.*
-
 ## Project Summary
 PetPamper is an innovative mobile application designed to connect pet owners with professional pet groomers, enhancing the pet care experience through convenient scheduling, localized service discovery, and interactive features. This platform centralizes various aspects of pet grooming, from finding nearby service providers to booking appointments to messaging the groomer, aiming to streamline pet care responsibilities for pet owners and provide a marketplace for groomers. PetPamper supports a seamless user experience that caters to both spontaneous and scheduled grooming needs, ensuring that pet care is efficient, enjoyable, and easily accessible.
 

@@ -1,13 +1,5 @@
 # History
 
-*Maximum 1 page*
-
-*Describe the V1 POC as planned by Sprint10.*
-
-*What did you learn?*
-
-*What is missing to bridge from PoC to MVP?*
-
 ## V1 PoC for PetPamper
 
 The V1 proof-of-concept (PoC) for PetPamper was designed to showcase the fundamental functionality of the application and test its viability in a real-world setting. The PoC included essential features such as Groomer Discovery, Appointment Scheduling, and an In-app Messaging System. These features enabled users to locate nearby groomers, book grooming appointments, and communicate with groomers directly through the app. The primary objective was to create a streamlined user experience that demonstrated the potential of PetPamper to simplify pet grooming management.
