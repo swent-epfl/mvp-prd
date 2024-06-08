@@ -122,12 +122,6 @@ Secure Authentication and Transactions: Protects user data and financial transac
 
 ## Success Criteria
 
-*How will you evaluate the success of the MVP?*
-
-*Metrics include user penetration, quality / satisfaction.*
-
-*If applicable, progress in discussions with ecosystem partners / investors / customers.*
-
 User Penetration: Measure the number of downloads, registrations, and active users within the first three months.
 
 Quality/Satisfaction: Collect user feedback through ratings and reviews, aiming for high satisfaction scores and positive testimonials.
@@ -137,12 +131,6 @@ Engagement Metrics: Track the number of appointments booked, messages exchanged,
 Ecosystem Progress: Monitor discussions and agreements with potential ecosystem partners, investors, and initial customer feedback.
 
 ## Features Outside the Scope
-
-*The MVP must be viable and minimal.*
-
-*Which features don’t belong in it.*
-
-*How should these be eventually integrated and in what sequence.*
 
 While additional pet services such as veterinary appointments and dietary consultations are valuable, they can be integrated in future updates after establishing the core grooming service. Advanced health tracking integration, which involves incorporating pet health tracking devices and features, will be introduced in later versions to enhance the overall wellness ecosystem. Developing a marketplace for pet care products will be considered once a substantial user base is established.
 
